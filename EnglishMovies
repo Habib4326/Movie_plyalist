@@ -11,70 +11,9 @@ http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Back%20in
 http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Captain%20America-Brave%20New%20World%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Captain%20America%20Brave%20New%20World%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 #EXTINF:-1 group-title="Action" tvg-logo="http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Den%20of%20Thieves%202-Pantera%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg", Den of Thieves 2 Pantera
 http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Den%20of%20Thieves%202-Pantera%20%282025%29%201080p%20%5BDual%20Audio%5D/Den%20of%20Thieves%202%20Pantera%20%282025%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
-#EXTINF:-1 group-title="Action" tvg-logo="http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Drop%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg", Drop
+#EXTINF:-1 group-title="Action" tvg-logo="", Drop
 http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Drop%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Drop%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-KmHD.mkv
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
-#EXTINF:-1 group-title="Action" tvg-logo="Image", naame
-Link
+
 
 
 
@@ -96,9 +35,9 @@ Link
 <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Ash%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Ash%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-KmHD.mkv</link>
 <item>
 
-<title></title>
+<title>Drop</title>
 
-<thumbnail></thumbnail>
+<thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Drop%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
 
 <link></link>
 
