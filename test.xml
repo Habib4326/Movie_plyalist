@@ -1,6 +1,16 @@
-<item>
-	<name>Ash</name>
-	<thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Ash%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
-	<link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Ash%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Ash%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-KmHD.mkv</link>
+$ curl  http://192.168.0.1:9981/xmltv/channels
 
-</item>
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="TVHeadend-4.3-1670~ge37c696de-dirty" source-info-name="tvh-Tvheadend">
+<channel id="7e7b77801531c803f5ce8f4d5003f44c">
+  <display-name>Channel 5+1</display-name>
+</channel>
+...
+<programme start="20181231151500 +0000" stop="20181231161500 +0000" channel="7e7b77801531c803f5ce8f4d5003f44c">
+  <title lang="eng">Dirty Dancing</title>
+  <desc lang="eng">Classic starring Patrick Swayze and Jennifer Grey. A spoiled 17-year-old learns a lot about life from the hotel dance instructor during a family summer holiday. (1987)[S]</desc>
+  <category lang="en">Movie / Drama</category>
+</programme>
+...
+</tv>
