@@ -1,5 +1,8 @@
 #EXTM3U:-1 {<Title>English</Title>}
 
+#EXTINF:-1 group-title="English" tvg-logo="https://image.tmdb.org/t/p/w500/iLXp24WqbbGlMOgoj7AheJgftxi.jpg", Bullet Train Explosion
+https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Bullet.Train.Explosion.2025.720p.HEVC.WEB.DL.Hindi.English.ESub.x265.HDHub4u.Ms.mkv
+
 #EXTINF:-1 group-title="English" tvg-logo="http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/A%20Working%20Man%20%282025%29%201080p%20AMZN/a_AL_.jpg", A Working Man
 https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/A.Working.Man.2025.720p.WEB.DL.Hindi.5.1.English.5.1.ESub.x264.HDHub4u.Ms.mkv
 
