@@ -2,20 +2,6 @@
 
 Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
 
-## Table of contents
-
-- 🚀 [How to use?](#how-to-use)
-- 📺 [Playlists](#playlists)
-- 🗓 [EPG](#epg)
-- 🗄 [Database](#database)
-- 👨‍💻 [API](#api)
-- 📚 [Resources](#resources)
-- 💬 [Discussions](#discussions)
-- ❓ [FAQ](#faq)
-- 🛠 [Contribution](#contribution)
-- ⚖ [Legal](#legal)
-- © [License](#license)
-
 ## How to use?
 
 Simply insert one of the links below into [any video player](https://github.com/iptv-org/awesome-iptv#apps) that supports live streaming and press _Open_.
@@ -31,7 +17,7 @@ There are several versions of playlists that differ in the way they are grouped.
 This playlist includes all known channels available in this repository.
 
 ```
-https://iptv-org.github.io/iptv/index.m3u
+[https://raw.githubusercontent.com/Habib4326/Movie_plyalist/refs/heads/main/Update.m3u]
 ```
 
 ### Grouped by category
