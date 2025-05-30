@@ -1,5 +1,8 @@
 #EXTM3U:-1 {<Title>English</Title>}
 
+#EXTINF:-1 group-title="English" tvg-logo="https://image.tmdb.org/t/p/w500/uB8yTnF6YLIIVKuRJAK8LNk8C6w.jpg", Last Breath (2025)
+https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Last.Breath.2025.1080p.10Bit.BluRay.Hindi.2.0.English.5.1.HEVC.x265.HDHub4u.Ms.mkv
+
 #EXTINF:-1 group-title="English" tvg-logo="https://image.tmdb.org/t/p/w500/r2zyMqDxGjrfYyQqQp9WUyQdd5O.jpg", Until Dawn
 https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Until.Dawn.2025.720p.10Bit.WEB.DL.Hindi.5.1.English.HEVC.x265.HDHub4u.Ms.mkv
 
@@ -103,6 +106,15 @@ http://10.1.1.1/data/Hindi%20Movies/%282025%29/The%20Diplomat%20%282025%29%20108
 
 
 #EXTM3U:-3 {<Title>Hindi Dubbed</Title>}
+
+#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="https://image.tmdb.org/t/p/w400/lycbTFBXqFN1kMdPEsnAFutKEEy.jpg", Kanguva (2024)
+https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Kanguva.2024.720p.10Bit.DS4K.WEB-DL.Hindi.2.0-Tamil.5.1.HEVC.x265-HDHub4u.Tv.mkv
+
+#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="https://image.tmdb.org/t/p/w500/tOcyQdSjXEYzIB5lqrwxkp0iSaL.jpg", Thudarum (2025)
+https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Thudarum.2025.720p.10Bit.DS4K.WEB.DL.Hindi.5.1.Malayalam.HEVC.x265.HDHub4u.Ms.mkv
+
+#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="https://image.tmdb.org/t/p/w500/rIkOhREf46L2sdlHN1dkX0qWKMd.jpg", Devils.Double.Next.Level. (2025)
+https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Devils.Double.Next.Level.2025.720p.HEVC.WEB.DL.Hindi.CLEAN.Tamil.x265.HDHub4u.Ms.mkv
 
 #EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/14%20Days-Girlfriend%20Intlo%20%282025%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg", 14 Days Girlfriend Intlo
 http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/14%20Days-Girlfriend%20Intlo%20%282025%29%20720p%20%5BDual%20Audio%5D/14%20Days%20Girlfriend%20Intlo%20%282025%29%20UNCUT%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTelugu%205.1%5D%20-mkvC.mkv
