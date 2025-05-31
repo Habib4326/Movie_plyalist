@@ -1,6 +1,6 @@
 #EXTM3U:-1 {<Title>English</Title>}
 
-#EXTINF:-1 group-title="English (2024)" tvg-logo="https://embraceyourgeeknesseyg.com/wp-content/uploads/2024/06/xl_a-quiet-place-day-one-movie-poster_aa0de335.jpg", A Quiet Place Day One (2024)
+#EXTINF:-1 group-title="English" tvg-logo="https://embraceyourgeeknesseyg.com/wp-content/uploads/2024/06/xl_a-quiet-place-day-one-movie-poster_aa0de335.jpg", A Quiet Place Day One (2024)
 http://10.1.1.1/data/English%20Movies%20%281080p%29/%282024%29%201080p/A%20Quiet%20Place-Day%20One%20%282024%29%201080p%20AMZN%20%5BDual%20Audio%5D/A%20Quiet%20Place%20Day%20One%20%282024%29%201080p%20AMZN-WEB%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 
 #EXTINF:-1 group-title="English" tvg-logo="https://image.tmdb.org/t/p/w500/uB8yTnF6YLIIVKuRJAK8LNk8C6w.jpg", Last Breath (2025)
@@ -188,7 +188,7 @@ http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Retro%20%
 http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Tuk%20Tuk%20%282025%29%20720p%20%5BDual%20Audio%5D/Tuk%20Tuk%20%282025%29%20UNCUT%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BTelugu%202.0%5D%20-mkvC.mkv
 
 
-#EXTM3U:-1 Group-title="Horror" 
+#EXTM3U:-1 {<Title>Horror</Title>}
 
 #EXTINF:-1 group-title="Horror" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282020%29/Ghost%20Stories%20%282020%29%201080p/a_AL_.jpg", Ghost Stories (2020)
 http://10.1.1.1/data/Hindi%20Movies/%282020%29/Ghost%20Stories%20%282020%29%201080p/Ghost%20Stories%20%282020%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20LOKiHD.mkv
