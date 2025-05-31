@@ -188,6 +188,37 @@ http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Retro%20%
 http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Tuk%20Tuk%20%282025%29%20720p%20%5BDual%20Audio%5D/Tuk%20Tuk%20%282025%29%20UNCUT%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BTelugu%202.0%5D%20-mkvC.mkv
 
 
+#EXTM3U:-1 Group-title="Horror" 
+
+#EXTINF:-1 group-title="Horror" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282020%29/Ghost%20Stories%20%282020%29%201080p/a_AL_.jpg", Ghost Stories (2020)
+http://10.1.1.1/data/Hindi%20Movies/%282020%29/Ghost%20Stories%20%282020%29%201080p/Ghost%20Stories%20%282020%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20LOKiHD.mkv
+
+#EXTINF:-1 group-title="Horror" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282024%29/Bhool%20Bhulaiyaa%203%20%282024%29%201080p/a_AL_.jpg", Bhool Bhulaiyaa 3 (2024)
+http://10.1.1.1/data/Hindi%20Movies/%282024%29/Bhool%20Bhulaiyaa%203%20%282024%29%201080p/Bhool%20Bhulaiyaa%203%20%282024%29%20Hindi%201080p%20WEBRip%20x264%20AAC%20-%20HDHub4u.mkv
+
+#EXTINF:-1 group-title="Horror" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282022%29/Bhool%20Bhulaiyaa%202%20%282022%29%201080p/a_AL_.jpg", Bhool Bhulaiyaa 2 (2022)
+http://10.1.1.1/data/Hindi%20Movies/%282022%29/Bhool%20Bhulaiyaa%202%20%282022%29%201080p/Bhool%20Bhulaiyaa%202%20%282022%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 group-title="Horror" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282007%29/Bhool%20Bhulaiyaa%20%282007%29%201080p/ar2.jpg", Bhool Bhuiaiyaa 1 (2007)
+http://10.1.1.1/data/Hindi%20Movies/%282007%29/Bhool%20Bhulaiyaa%20%282007%29%201080p/Bhool%20Bhulaiyaa%20%282007%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 group-title="Horror" tvg-logo="https://media-cache.cinematerial.com/p/500x/2azamzr6/no-one-gets-out-alive-movie-poster.jpg?v=1653863673", No One Gets Out Alive (2021)
+https://pixeldrain.net/api/file/FJf9YFrP?download
+
+#EXTINF:-1 group-title="Horror" tvg-logo="http://10.1.1.1/data/English%20Movies%20%281080p%29/%282023%29%201080p/Evil%20Dead%20Rise%20%282023%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg", Evil Dead Rise (2023)
+http://10.1.1.1/data/English%20Movies%20%281080p%29/%282023%29%201080p/Evil%20Dead%20Rise%20%282023%29%201080p%20%5BDual%20Audio%5D/Evil%20Dead%20Rise%20%282023%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 group-title="Horror" tvg-logo="http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Possession%20of%20Hannah%20Grace%20%282018%29%201080p/a_V1_.jpg", The Possession of Hannah Grace (2018)
+http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Possession%20of%20Hannah%20Grace%20%282018%29%201080p/The.Possession.of.Hannah.Grace.2018.1080p.BRRip.x264.MkvCage.ws.mkv
+
+#EXTINF:-1 group-title="Horror" tvg-logo="Image", Apocalypse Z (2024)
+https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Apocalypse.Z-The.Beginning.Of.The.End.2024.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Tv.mkv
+
+#EXTINF:-1 group-title="Horror" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzM5CNIW0L1yiSvNHiBy-16rs8AidVYinR4iz9Mo1CvuDVsanncoSn_c&s=10", Black (2024)
+https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/BLACK.2024.720p.HEVC.DS4K.WEB-DL.Hindi.HQ-Dub.x265-HDHub4u.Tv.mkv
+
+
+
 #EXTM3U:-1 {<Title>Animation Movies</Title>}
 
 
