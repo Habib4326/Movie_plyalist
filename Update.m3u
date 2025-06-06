@@ -1,5 +1,20 @@
 #EXTM3U:-1 {<Title>English</Title>}
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/t3cmnXYtxJb9vVL1ThvT2CWSe1n.jpg" group-title="English",STRAW (2025)
+https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/STRAW.2025.720p.10Bit.WEB.DL.Hindi.5.1.English.HEVC.x265.HDHub4u.Ms.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg" group-title="English",Heart Eyes (2025)
+https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Heart.Eyes.2025.720p.10Bit.BluRay.Hindi.5.1.English.HEVC.x265.HDHub4u.Ms.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kMDUS7VmFhb2coRfVBoGLR8ADBt.jpg" group-title="English",The Accountant 2 (2025)
+https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/The.Accountant.2.2025.720p.10Bit.WEB.DL.Hindi.5.1.English.HEVC.x265.HDHub4u.Ms.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/blPAS2HZcOGLTREbUeNIWmz0B6f.jpg" group-title="English",I.S.S. (2023)
+https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/I.S.S.2023.720p.BluRay.Hindi.5.1.English.5.1.ESub.x264.HDHub4u.Ms.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kXZIt6sSsWMgkyan0boj72WZlpt.jpg" group-title="English",K O (2025)
+https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/K.O.2025.720p.10Bit.WEB.DL.Hindi.5.1.English.HEVC.x265.HDHub4u.Ms.mkv
+
 #EXTINF:-1 group-title="English" tvg-logo="https://embraceyourgeeknesseyg.com/wp-content/uploads/2024/06/xl_a-quiet-place-day-one-movie-poster_aa0de335.jpg", A Quiet Place Day One (2024)
 http://10.1.1.1/data/English%20Movies%20%281080p%29/%282024%29%201080p/A%20Quiet%20Place-Day%20One%20%282024%29%201080p%20AMZN%20%5BDual%20Audio%5D/A%20Quiet%20Place%20Day%20One%20%282024%29%201080p%20AMZN-WEB%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 
@@ -25,7 +40,7 @@ https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Ash.2025.720p.WEB.DL.Hindi.5
 https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Back.in.Action.2025.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv
 
 #EXTINF:-1 group-title="English" tvg-logo="https://image.tmdb.org/t/p/w500/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg", Final Destination Bloodlines (2025)
-https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Final.Destination.BloodLines.2025.720p.PRE.HD.Hindi.LiNE.2.0.English.2.0.x264.HDHub4u.Ms.mkv
+https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Final.Destination.BloodLines.2025.720p.HEVC.WEB.DL.Hindi.LiNE.English.x265.HDHub4u.Ms.mkv
 
 #EXTINF:-1 group-title="English" tvg-logo="https://image.tmdb.org/t/p/w400/lZPvLUMYEPLTE2df1VW5FHTYC8N.jpg", Alive
 https://pixeldrain.net/api/file/d12RaFGS?download
@@ -152,6 +167,12 @@ http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Upgraded%20(2024)
 
 
 #EXTM3U:-2 {<Title>Hindi</Title>}
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/mO9aRizI3CNzZj0VFeiidwgaBaB.jpg" group-title="Hindi",Gajaana (2025)
+https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Gajaana.2025.720p.Hindi.WEB.DL.5.1.ESub.x264.HDHub4u.Ms.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xR5Endhjm4soY6fPgXY0jrpDZvL.jpg" group-title"Hindi",Stolen (2025)
+https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Stolen.2025.720p.Hindi.DS4K.WEB.DL.5.1.ESub.x264.HDHub4u.Ms.mkv
 
 #EXTINF:-1 tvg-id="Bhool Chuk Maaf (2025)" tvg-name="Bhool Chuk Maaf (2025)" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282025%29/Bhool%20Chuk%20Maaf%20%282025%29%201080p%20HDTC/a_AL_.jpg" group-title="Hindi", Bhool Chuk Maaf (2025)
 http://10.1.1.1/data/Hindi%20Movies/%282025%29/Bhool%20Chuk%20Maaf%20%282025%29%201080p%20HDTC/Bhool%20Chuk%20Maaf%20%282025%29%20Hindi%201080p%20HDTC%20x265%20HEVC%2010bit%20ESub%20-%20HDHub4u.mkv
@@ -366,6 +387,9 @@ http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Yeh%20Shaadi%20Nahi%20Ho
 
 
 #EXTM3U:-3 {<Title>Hindi Dubbed</Title>}
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ej5RdqurwMKH4idJG3LGa4rJXfu.jpg" group-title="Hindi Dubbed",Paru Parvathy (2025)
+https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Paru.Parvathy.2025.720p.HEVC.WEB.DL.Hindi.5.1.Kannada.ESub.x265.HDHub4u.Ms.mkv
 
 #EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="https://image.tmdb.org/t/p/w400/lycbTFBXqFN1kMdPEsnAFutKEEy.jpg", Kanguva (2024)
 https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Kanguva.2024.720p.10Bit.DS4K.WEB-DL.Hindi.2.0-Tamil.5.1.HEVC.x265-HDHub4u.Tv.mkv
