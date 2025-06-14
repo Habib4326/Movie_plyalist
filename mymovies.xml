@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+    <movie>
+        <title>12 O Clock</title>
+        <year>2021</year>
+        <genre>Horror, Suspense</genre>
+        <link>http://10.1.1.1/data/Hindi%20Movies/%282021%29/12%20O%27%20Clock%20%282021%29%201080p/12%20O%20Clock%20%282021%29%20Hindi%201080p%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv</link>
+        <thumbnail>http://10.1.1.1/data/Hindi%20Movies/%282021%29/12%20O%27%20Clock%20%282021%29%201080p/a_AL_.jpg</thumbnail>
+        <poster>http://10.1.1.1/data/Hindi%20Movies/%282021%29/12%20O%27%20Clock%20%282021%29%201080p/a_AL_.jpg</poster>
+        <fanart>http://10.1.1.1/data/Hindi%20Movies/%282021%29/12%20O%27%20Clock%20%282021%29%201080p/a_AL_.jpg</fanart>
+    </movie>
+    <movie>
+        <title>মুভির টাইটেল ২</title>
+        <year>2022</year>
+        <genre>কমেডি, ড্রামা</genre>
+        <link>http://10.16.100.244/movies/movie2.mkv</link>
+        <thumbnail>http://10.16.100.244/thumbnails/movie2_thumb.jpg</thumbnail>
+        <poster>http://10.16.100.244/posters/movie2_poster.jpg</poster>
+        <fanart>http://10.16.100.244/fanart/movie2_fanart.jpg</fanart>
+    </movie>
+</movies>
