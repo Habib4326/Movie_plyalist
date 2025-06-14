@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies>
     <movie>
-        <title>12 O Clock</title>
-        <year>2021</year>
-        <genre>Horror, Suspense</genre>
-        <link>http://10.1.1.1/data/Hindi%20Movies/%282021%29/12%20O%27%20Clock%20%282021%29%201080p/12%20O%20Clock%20%282021%29%20Hindi%201080p%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv</link>
-        <thumbnail>http://10.1.1.1/data/Hindi%20Movies/%282021%29/12%20O%27%20Clock%20%282021%29%201080p/a_AL_.jpg</thumbnail>
-        <poster>http://10.1.1.1/data/Hindi%20Movies/%282021%29/12%20O%27%20Clock%20%282021%29%201080p/a_AL_.jpg</poster>
-        <fanart>http://10.1.1.1/data/Hindi%20Movies/%282021%29/12%20O%27%20Clock%20%282021%29%201080p/a_AL_.jpg</fanart>
+        <title>A Working Man</title>
+        <year>2025</year>
+        <genre>Action, Crime, Thriller</genre>
+        <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/A%20Working%20Man%20%282025%29%201080p%20AMZN/A%20Working%20Man%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-PSA.mkv</link>
+        <thumbnail>https://i.ibb.co/TMMtjkLS/a-AL-1.jpg</thumbnail>
+        <poster>https://i.ibb.co/TMMtjkLS/a-AL-1.jpg</poster>
+        <fanart>https://i.ibb.co/TMMtjkLS/a-AL-1.jpg</fanart>
     </movie>
     <movie>
-        <title>মুভির টাইটেল ২</title>
-        <year>2022</year>
-        <genre>কমেডি, ড্রামা</genre>
-        <link>http://10.16.100.244/movies/movie2.mkv</link>
-        <thumbnail>http://10.16.100.244/thumbnails/movie2_thumb.jpg</thumbnail>
-        <poster>http://10.16.100.244/posters/movie2_poster.jpg</poster>
-        <fanart>http://10.16.100.244/fanart/movie2_fanart.jpg</fanart>
+        <title>Ash</title>
+        <year>2025</year>
+        <genre>Science Fiction, Horror, Thriller</genre>
+        <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Ash%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Ash%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-KmHD.mkv</link>
+        <thumbnail>https://i.ibb.co/8gmTXyV4/a-AL.jpg</thumbnail>
+        <poster>https://i.ibb.co/8gmTXyV4/a-AL.jpg</poster>
+        <fanart>https://i.ibb.co/8gmTXyV4/a-AL.jpg</fanart>
     </movie>
 </movies>
