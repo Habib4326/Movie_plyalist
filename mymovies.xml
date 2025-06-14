@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<playlist>
-    <name>My Playlist</name>
-    <thumb>https://i.ibb.co/JjRSLs9n/9368120.jpg</thumb>
-    <fanart>https://i.ibb.co/Z6Lwtjyb/1000050626-optimized.jpg</fanart>
-
-    <movies>
+<movies>
         <movie>
             <title>A Working Man</title>
             <year>2025</year>
@@ -25,5 +20,14 @@
             <fanart>https://i.ibb.co/8gmTXyV4/a-AL.jpg</fanart>
             <plot>In a dystopian future, a lone survivor named Ash fights against mutated creatures in a desolate wasteland.</plot>
             </movie>
+        <movie>
+            <title>My Old Ass</title>
+            <year>2024</year>
+            <genre>Comedy, Drama, Romancer</genre>
+            <link>https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/My.Old.Ass.2024.720p.10Bit.WEB.DL.Hindi.5.1.English.HEVC.x265.HDHub4u.Do.mkv</link>
+            <thumbnail>https://image.tmdb.org/t/p/w500/PKZsGJqSsWiA1MdBH8eSbMrXf4.jpg</thumbnail>
+            <poster>https://resizing.flixster.com/duzjGRJP8mYLH9ay3XcJ7QCzHYo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE3M2M4MWZiLWQzMmUtNDQ2NC05NzVmLTIyYmQ4M2NiNzFmMS5qcGc=</poster>
+            <fanart>https://catimages.org/images/2025/06/14/vlcsnap-2025-06-13-11h05m54s201.jpg</fanart>
+            <plot></plot>
+            </movie>
     </movies>
-</playlist>
