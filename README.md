@@ -17,8 +17,8 @@ There are several versions of playlists that differ in the way they are grouped.
 This playlist includes all known channels available in this repository.
 
 ```
-https://raw.githubusercontent.com/Habib4326/Movie_plyalist/refs/heads/main/Update.m3u
-```
+[https://raw.githubusercontent.com/Habib4326/Movie_plyalist/refs/heads/main/Update.m3u
+](https://raw.githubusercontent.com/Habib4326/Movie_plyalist/refs/heads/main/main_update.m3u)```
 
 ### Grouped by category
 
