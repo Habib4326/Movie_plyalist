@@ -1,667 +1,192 @@
-#EXTM3U:-1 {<Title>English</Title>}
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/t3cmnXYtxJb9vVL1ThvT2CWSe1n.jpg" group-title="English",STRAW (2025)
-https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/STRAW.2025.720p.10Bit.WEB.DL.Hindi.5.1.English.HEVC.x265.HDHub4u.Ms.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg" group-title="English",Heart Eyes (2025)
-https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Heart.Eyes.2025.720p.10Bit.BluRay.Hindi.5.1.English.HEVC.x265.HDHub4u.Ms.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kMDUS7VmFhb2coRfVBoGLR8ADBt.jpg" group-title="English",The Accountant 2 (2025)
-https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/The.Accountant.2.2025.720p.10Bit.WEB.DL.Hindi.5.1.English.HEVC.x265.HDHub4u.Ms.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/blPAS2HZcOGLTREbUeNIWmz0B6f.jpg" group-title="English",I.S.S. (2023)
-https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/I.S.S.2023.720p.BluRay.Hindi.5.1.English.5.1.ESub.x264.HDHub4u.Ms.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kXZIt6sSsWMgkyan0boj72WZlpt.jpg" group-title="English",K O (2025)
-https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/K.O.2025.720p.10Bit.WEB.DL.Hindi.5.1.English.HEVC.x265.HDHub4u.Ms.mkv
-
-#EXTINF:-1 group-title="English" tvg-logo="https://embraceyourgeeknesseyg.com/wp-content/uploads/2024/06/xl_a-quiet-place-day-one-movie-poster_aa0de335.jpg", A Quiet Place Day One (2024)
-http://10.1.1.1/data/English%20Movies%20%281080p%29/%282024%29%201080p/A%20Quiet%20Place-Day%20One%20%282024%29%201080p%20AMZN%20%5BDual%20Audio%5D/A%20Quiet%20Place%20Day%20One%20%282024%29%201080p%20AMZN-WEB%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="English" tvg-logo="https://image.tmdb.org/t/p/w500/uB8yTnF6YLIIVKuRJAK8LNk8C6w.jpg", Last Breath (2025)
-https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Last.Breath.2025.1080p.10Bit.BluRay.Hindi.2.0.English.5.1.HEVC.x265.HDHub4u.Ms.mkv
-
-#EXTINF:-1 group-title="English" tvg-logo="https://image.tmdb.org/t/p/w500/r2zyMqDxGjrfYyQqQp9WUyQdd5O.jpg", Until Dawn (2025)
-https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Until.Dawn.2025.720p.10Bit.WEB.DL.Hindi.5.1.English.HEVC.x265.HDHub4u.Ms.mkv
-
-#EXTINF:-1 group-title="English" tvg-logo="https://image.tmdb.org/t/p/w500/qdAR615XT5IcdBaP5koblZC9LdZ.jpg", Fear Street Prom Queen (2025)
-https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Fear.Street.Prom.Queen.2025.720p.WEB.DL.Hindi.5.1.English.5.1.ESub.x264.HDHub4u.Ms.mkv
-
-#EXTINF:-1 group-title="English" tvg-logo="https://image.tmdb.org/t/p/w400/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg", Peter Pan’s Neverland Nightmare (2025)
-https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Peter.Pans.Neverland.Nightmare.2025.1080p.10Bit.WEB.DL.Hindi.2.0.English.5.1.HEVC.x265.HDHub4u.Ms.mkv
-
-#EXTINF:-1 group-title="English" tvg-logo="http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/A%20Working%20Man%20%282025%29%201080p%20AMZN/a_AL_.jpg", A Working Man (2025)
-https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/A.Working.Man.2025.720p.WEB.DL.Hindi.5.1.English.5.1.ESub.x264.HDHub4u.Ms.mkv
-
-#EXTINF:-1 group-title="English" tvg-logo="http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Ash%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg", Ash (2025)
-https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Ash.2025.720p.WEB.DL.Hindi.5.1.English.5.1.ESub.x264.HDHub4u.Ms.mkv
-
-#EXTINF:-1 group-title="English" tvg-logo="http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Back%20in%20Action%20%282025%29%201080p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg", Back in Action (2025)
-https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Back.in.Action.2025.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv
-
-#EXTINF:-1 group-title="English" tvg-logo="https://image.tmdb.org/t/p/w500/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg", Final Destination Bloodlines (2025)
-https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Final.Destination.BloodLines.2025.720p.HEVC.WEB.DL.Hindi.LiNE.English.x265.HDHub4u.Ms.mkv
-
-#EXTINF:-1 group-title="English" tvg-logo="https://image.tmdb.org/t/p/w400/lZPvLUMYEPLTE2df1VW5FHTYC8N.jpg", Alive
-https://pixeldrain.net/api/file/d12RaFGS?download
-
-#EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Smile_2_%282024%29_poster.jpg", Smile 2 (2024)
-https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Smile.2.2024.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Tv.mkv
-
-#EXTINF:-1 group-title="English" tvg-logo="http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Den%20of%20Thieves%202-Pantera%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg", Den of Thieves 2 Pantera (2025)
-http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Den%20of%20Thieves%202-Pantera%20%282025%29%201080p%20%5BDual%20Audio%5D/Den%20of%20Thieves%202%20Pantera%20%282025%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="English" tvg-logo="http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Drop%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg", Drop (2025)
-https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Drop.2025.720p.WEB.DL.Hindi.5.1.English.5.1.ESub.x264.HDHub4u.Ms.mkv
-
-#EXTINF:-1 tvg-id="Black Bag (2025)" tvg-name="Black Bag (2025)" tvg-logo="http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Black%20Bag%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Hindi", Black Bag (2025)
-http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Black%20Bag%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Black%20Bag%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
-
-#EXTINF:-1 tvg-id="Captain America Brave New World (2025)" tvg-name="Captain America Brave New World (2025)" tvg-logo="http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Captain%20America-Brave%20New%20World%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="English", Captain America Brave New World (2025)
-http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Captain%20America-Brave%20New%20World%20%282025%29%201080p%20%5BDual%20Audio%5D/Captain%20America%20Brave%20New%20World%20%282025%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 tvg-id="Flight Risk (2025)" tvg-name="Flight Risk (2025)" tvg-logo="http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Flight%20Risk%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="English", Flight Risk (2025)
-http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Flight%20Risk%20%282025%29%201080p%20%5BDual%20Audio%5D/Flight%20Risk%20%282025%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 tvg-id="The Electric State (2025)" tvg-name="The Electric State (2025)" tvg-logo="http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Electric%20State%20%282025%29%201080p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="English", The Electric State (2025)
-http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Electric%20State%20%282025%29%201080p%20NF%20%5BDual%20Audio%5D/The%20Electric%20State%20%282025%29%201080p%20NF-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-KmHD.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1p_RCylXlDgqf-GiP08Ty_-zrWySF-XAd9mO64d9h78j6zeVzCKSqTV-E&s=10" group-title="English",A Haunting in Venice (2023) (Hindi & English) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/A%20Haunting%20in%20Venice%20(2023)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUwQdqm1KtHK4wkvOI0yOdO9XkGB9OOHQ4mNqTJle6DsdvZZibh-Makhu3&s=10" group-title="English",Assassination Nation (2018) 1080p Bluray (Dual Audio) (Hindi+English)
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Assassination%20Nation%20(2018)%201080p%20Bluray%20(Dual%20Audio)%20(Hindi+English).mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJuekMSnaL5YNkORm4IdgK_lpm89dhljK2LALgDb-R_QOCgndS_Xrw0Mo&s=10" group-title="English",Bartkowiak (2021) (Hindi & English) 1080p WEBRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Bartkowiak%20(2021)%20(Hindi%20&%20English)%201080p%20WEBRip.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToT7OFzkgQdhU5E1P5VE-bB4TUjYbd_TozhE3GOpiSZ1C1whxvWn5EAe6e&s=10" group-title="English",Blue Cave (2024) (Hindi & English) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Blue%20Cave%20(2024)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE0O293ImB87PR-u0yVh8CfDgK996I0RL8SAoQrauJDLgP5P0Gs7P_ns8&s=10" group-title="English",Bullet Train (2022) (Hindi & English) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Bullet%20Train%20(2022)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkVl4RDNieMqdFfutAHlEz93bl-CjAJqp-uYzJGTo6a_zR6rN0zD6dnkRg&s=10" group-title="English",Cinderella (2021) (Hindi & English) 1080p WEBRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Cinderella%20(2021)%20(Hindi%20&%20English)%201080p%20WEBRip.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5NFqfALAl3CgRzEUfTaXIax7S_Ujw64NIjfPhuwymszs0yf9GzNoVyxeZ&s=10" group-title="English",Company of Heroes (2013) (Hindi & English) 1080p BluRay
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Company%20of%20Heroes%20(2013)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHtBGsnxOoEQAsboEspaPoElQT-Z4wtTikQ45Hrb3x_6NvjOw607ZrPxk&s=10" group-title="English",Dune Part Two (2024) (Hindi & English) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Dune%20Part%20Two%20(2024)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3uV1Rjd6xtSqvv___ZzWp-UFjm8MglRDkqqGsZljocVbL97AqTLQ_eUzs&s=10" group-title="English",Faithfully Yours (2022) (Hindi & English) 1080p WEBRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Faithfully%20Yours%20(2022)%20(Hindi%20&%20English)%201080p%20WEBRip.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWmm7evReAbkHRuy9pV7bIEaYJZB8FPpiDJrIrFtOx1dTp5vh1Jk48cDk&s=10" group-title="English",Fall (2022) (Hindi & English) 1080p BluRay
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Fall%20(2022)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRYa3nnoEl1JRHbThLDz34Jjd6ZpbgwmEnfPG9gVLW386dVUMjuXhAjKVc&s=10" group-title="English",Fantastic Beasts and Where to Find Them (2016) (Hindi & English) 1080p BluRay
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Fantastic%20Beasts%20and%20Where%20to%20Find%20Them%20(2016)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/G.I._Joe_-_The_Rise_of_Cobra_%282009_film%29.jpg/250px-G.I._Joe_-_The_Rise_of_Cobra_%282009_film%29.jpg" group-title="English",G I Joe The Rise of Cobra (2009) (Hindi & English) 1080p BluRay
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/G%20I%20Joe%20The%20Rise%20of%20Cobra%20(2009)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_8tPg9jRDjjH8gaxUm_7jx4JQbvSu2N5RoIylFuFldEFkvrPDh4lOMw&s=10" group-title="English",Half Brothers (2020) (Hindi & English) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Half%20Brothers%20(2020)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpu51OiSrIjgCAQg0CB7DlP7ZrVgR6rw5HVoCajOGfBYCGKKuWbh9LkHvq&s=10" group-title="English",Inheritance (2025) (Hindi & English) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Inheritance%20(2025)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjYbjfMDqsobmhfNKyhiaOlqzydUvMbHmq_0fX1ezpHEeQKALrap8AbXvS&s=10" group-title="English",Kingdom of the Planet of the Apes (2024) (Hindi & English) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Kingdom%20of%20the%20Planet%20of%20the%20Apes%20(2024)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH6lr75aZv-d4t_2u1sD4nzg91ghNjL2dnu3uOZjVPZBWMwtm76y_KGrRL&s=10" group-title="English",Man of Men (Peopekteu maen) (2019) (Hindi & Korean) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Man%20of%20Men%20(Peopekteu%20maen)%20(2019)%20(Hindi%20&%20Korean)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Morgan_film_poster.jpg" group-title="English",Morgan (2016) ( Hindi & English) 1080p BluRay
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Morgan%20(2016)%20(%20Hindi%20&%20English)%201080p%20BluRay.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLCEsyTPDVXnRd1y6I122EFdrKM0DmIVpCsG6DF1Z-U4sslYZW3s7O3ms&s=10" group-title="English",Night Hunter (2018) (Hindi & English) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Night%20Hunter%20(2018)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz-nVrEsPssxZq5StFrYSd2C8AxL_-GjGMFx_ZDUQ5ji1DmPAeGkq5wbM&s=10" group-title="English",Ricky Stanicky (2024) (Hindi & English) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Ricky%20Stanicky%20(2024)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbbdDuU39Bzmom4658SEsRuvW8zs6REdXpbO4WeX8aBeWAqY9NQ0o4KSxc&s=10" group-title="English",Smugglers (Milsu) (2023) (Hindi & Korean) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Smugglers%20(Milsu)%20(2023)%20(Hindi%20&%20Korean)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE28W5p5haQMZNvcCP7FLmyHJeZszcxwjT4jPX-4uquTHGrq-wsCRobtaD&s=10" group-title="English",Spaceman (2024) (Hindi & English) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Spaceman%20(2024)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2bpGzD45sofBbNoZ0UMmiXi6nNEUVnF25E-N9wrRNdQ-unUcdoLekfQ4&s=10" group-title="English",Sunshine (2007) (Hindi & English) 1080p WEBRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Sunshine%20(2007)%20(Hindi%20&%20English)%201080p%20WEBRip.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQFs64-1uVgNLfMTT7cAZVID_qPuFVW-2-mA&s" group-title="English",Tenet (2020) (Hindi) 1080p BluRay
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Tenet%20(2020)%20(Hindi)%201080p%20BluRay.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLyGzKFjj-a-3Rl5XD5Gn0H82jdbWlhOuW98hM7b37xUTTaXCj9c2NJieG&s=10" group-title="English",The Hurricane Heist (2018) (Hindi & English) 1080p BluRay
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/The%20Hurricane%20Heist%20(2018)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrQ6BKEWaM3SXsU4qeP9YFeFAoITu1VKrCSYfJdfX4qAqXyP4G5QhxPyY&s=10" group-title="English",The Last Warrior (Yong zhi cheng) (2021) (Hindi & English) 1080p WEBRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/The%20Last%20Warrior%20(Yong%20zhi%20cheng)%20(2021)%20(Hindi%20&%20English)%201080p%20WEBRip.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJbU82-Sbqyl-FBm2u880gZpne9v8O9hlKkPpO_fiaVufToYHunpLnXIjO&s=10" group-title="English",The Legend of Tarzan (2016) (Hindi & English) 1080p BluRay
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/The%20Legend%20of%20Tarzan%20(2016)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfx6WAYq6sr2vtd7eawoF5QosUvAsCHPw2jRS6Y6CCE78hSlgBJytxAmmX&s=10" group-title="English",The Wave (Bolgen) (2015) (Hindi & Norway) 1080p WEBRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/The%20Wave%20(Bolgen)%20(2015)%20(Hindi%20&%20Norway)%201080p%20WEBRip.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSuve1VfvvFp0H6Oe_axZQimEksifyWpywvlN_k199ZiP0E8daOU_0Uh1c&s=10" group-title="English",The Witch Part 1 The Subversion (Manyeo) (2018) (Hindi & English) 1080p BluRay
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/The%20Witch%20Part%201%20The%20Subversion%20(Manyeo)%20(2018)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_AmlrLYzYeEolk0qiM6U6GtgmVdhetlXxvIokIWXlFecsKTX_5TRr3IA&s=10" group-title="English",Things Heard And Seen (2021) (Hindi Dubbed) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Things%20Heard%20And%20Seen%20(2021)%20(Hindi%20Dubbed)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRroc9kiN2nEB0jBFbwDtVB5ppIh_mYXGoE645O7ErN9mc-MirPI23j5Fu1&s=10" group-title="English",Upgraded (2024) (Hindi & English) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Upgraded%20(2024)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-
-
-
-
-#EXTM3U:-2 {<Title>Hindi</Title>}
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/mO9aRizI3CNzZj0VFeiidwgaBaB.jpg" group-title="Hindi",Gajaana (2025)
-https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Gajaana.2025.720p.Hindi.WEB.DL.5.1.ESub.x264.HDHub4u.Ms.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xR5Endhjm4soY6fPgXY0jrpDZvL.jpg" group-title"Hindi",Stolen (2025)
-https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Stolen.2025.720p.Hindi.DS4K.WEB.DL.5.1.ESub.x264.HDHub4u.Ms.mkv
-
-#EXTINF:-1 tvg-id="Bhool Chuk Maaf (2025)" tvg-name="Bhool Chuk Maaf (2025)" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282025%29/Bhool%20Chuk%20Maaf%20%282025%29%201080p%20HDTC/a_AL_.jpg" group-title="Hindi", Bhool Chuk Maaf (2025)
-https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Bhool.Chuk.Maaf.2025.720p.10Bit.Hindi.DS4K.WEB.DL.5.1.HEVC.x265.HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282025%29/Aachari%20Baa%20%282025%29%20720p/a_AL_.jpg", Aachari Baa (2025)
-http://10.1.1.1/data/Hindi%20Movies/%282025%29/Aachari%20Baa%20%282025%29%20720p/Aachari%20Baa%20%282025%29%20Hindi%20720p%20HS%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282025%29/Akaal-The%20Unconquered%20%282025%29%20720p%20HDRip/a_AL_.jpg", Akaal The Unconquered (2025)
-http://10.1.1.1/data/Hindi%20Movies/%282025%29/Akaal-The%20Unconquered%20%282025%29%20720p%20HDRip/Akaal%20The%20Unconquered%20%282025%29%20Hindi%20720p%20HDRip%20x264%20AAC%202.0%20ESub%20-%20mkvCinemas.mkv
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282025%29/Baida%20%282025%29%201080p/a_AL_.jpg", Baida (2025)
-http://10.1.1.1/data/Hindi%20Movies/%282025%29/Baida%20%282025%29%201080p/Baida%20%282025%29%20Hindi%20080p%20PRE-WEB-DL%20x264%20AAC%20-%20HDHub4u.mkv
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282025%29/Be%20Happy%20%282025%29%20720p/a_AL_.jpg", Be Happy (2025)
-http://10.1.1.1/data/Hindi%20Movies/%282025%29/Be%20Happy%20%282025%29%20720p/Be%20Happy%20%282025%29%20Hindi%20720p%20AMZN%20WEBRip%20x264%20AAC%205.1%20MSubs%20-%20mkvCinemas.mkv
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282025%29/Chhaava%20%282025%29%201080p/a_AL_.jpg", Chhaava (2025)
-http://10.1.1.1/data/Hindi%20Movies/%282025%29/Chhaava%20%282025%29%201080p/Chhaava%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20mkvCinemas.mkv
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282025%29/Chhorii%202%20%282025%29%20720p/a_AL_.jpg", Chhorii 2 (2025)
-http://10.1.1.1/data/Hindi%20Movies/%282025%29/Chhorii%202%20%282025%29%20720p/Chhorii%202%20%282025%29%20Hindi%20720p%20AMZN%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282025%29/Costao%20%282025%29%20720p/a_AL_.jpg", Costao (2025)
-http://10.1.1.1/data/Hindi%20Movies/%282025%29/Costao%20%282025%29%20720p/Costao%20%282025%29%20Hindi%20720p%20Zee5%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282025%29/Deva%20%282025%29%201080p/a_AL_.jpg", Deva (2025)
-http://10.1.1.1/data/Hindi%20Movies/%282025%29/Deva%20%282025%29%201080p/Deva%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282025%29/Dhoom%20Dhaam%20%282025%29%20720p/a_AL_.jpg", Dhoom Dhaam (2025)
-http://10.1.1.1/data/Hindi%20Movies/%282025%29/Dhoom%20Dhaam%20%282025%29%20720p/Dhoom%20Dhaam%20%282025%29%20Hindi%20720p%20NF%20WEBRip%20x264%20AAC%205.1%20x264%20MSubs%20-%20mkvCinemas.mkv
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282025%29/Dil%20Dosti%20Aur%20Dogs%20%282025%29%20720p/a_AL_.jpg", Dil Dosti Aur Dogs (2025)
-http://10.1.1.1/data/Hindi%20Movies/%282025%29/Dil%20Dosti%20Aur%20Dogs%20%282025%29%20720p/Dil%20Dosti%20Aur%20Dogs%20%282025%29%20Hindi%20720p%20HS%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282025%29/Emergency%20%282025%29%201080p/a_AL_.jpg", Emergency (2025)
-http://10.1.1.1/data/Hindi%20Movies/%282025%29/Emergency%20%282025%29%201080p/Emergency%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282025%29/Fateh%20%282025%29%201080p/a_AL_.jpg", Fateh (2025)
-http://10.1.1.1/data/Hindi%20Movies/%282025%29/Fateh%20%282025%29%201080p/Fateh%20%282025%29%20Hindi%201080p%20HS%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282025%29/Loveyapa%20%282025%29%20720p/a_AL_.jpg", Loveyapa (2025)
-http://10.1.1.1/data/Hindi%20Movies/%282025%29/Loveyapa%20%282025%29%20720p/Loveyapa.2025.720p.Hindi.DS4K.WEB-DL.5.1.x264-HDHub4u.Tv.mkv
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282025%29/Majhail%20%282025%29%20720p/a_AL_.jpg", Majhail (2025)
-http://10.1.1.1/data/Hindi%20Movies/%282025%29/Majhail%20%282025%29%20720p/Majhail%20%282025%29%20Punjabi%20720p%20AMZN%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20HDHub4u.mkv
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282025%29/Match%20Fixing%20%282025%29%20720p%20HDTS/a_AL_.jpg", Match Fixing (2025)
-http://10.1.1.1/data/Hindi%20Movies/%282025%29/Match%20Fixing%20%282025%29%20720p%20HDTS/Match%20Fixing%20%282025%29%20Hindi%20720p%20HDTS%20x264%20AAC%202.0%20ESub%20-%20mkvCinemas.mkv
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282025%29/Nadaaniyan%20%282025%29%20720p/a_AL_.jpg", Nadaaniyan (2025)
-http://10.1.1.1/data/Hindi%20Movies/%282025%29/Nadaaniyan%20%282025%29%20720p/Nadaaniyan%20%282025%29%20Hindi%20720p%20NF%20WEBRip%20x264%20AAC%205.1%20MSubs%20-%20mkvCinemas.mkv
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282025%29/Pintu%20Ki%20Pappi%20%282025%29%201080p%20Pre-HDRip/a_AL_.jpg", Pintu Ki Pappi (2025)
-http://10.1.1.1/data/Hindi%20Movies/%282025%29/Pintu%20Ki%20Pappi%20%282025%29%201080p%20Pre-HDRip/Pintu%20Ki%20Pappi%20%282025%29%20Hindi%201080p%20PRE-HD%20x264%20AAC%20-%20CineVood.mkv
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282025%29/Sky%20Force%20%282025%29%201080p/a_AL_.jpg", Sky Force (2025)
-http://10.1.1.1/data/Hindi%20Movies/%282025%29/Sky%20Force%20%282025%29%201080p/Sky%20Force%20%282025%29%20Hindi%201080p%20AMZN%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282025%29/Sweet%20Dreams%20%282025%29%20720p/a_AL_.jpg", Sweet Dreams (2025)
-http://10.1.1.1/data/Hindi%20Movies/%282025%29/Sweet%20Dreams%20%282025%29%20720p/Sweet%20Dreams%20%282025%29%20Hindi%20720p%20DSNP%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20HDHub4u.mkv
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282025%29/The%20Diplomat%20%282025%29%201080p%20HDRip/a_AL_.jpg", The Diplomat (2025)
-http://10.1.1.1/data/Hindi%20Movies/%282025%29/The%20Diplomat%20%282025%29%201080p%20HDRip/The%20Diplomat%20%282025%29%20Hindi%201080p%20DS4K%20HDRip%20x265%20HEVC%2010bit%20AAC%202.0%20ESub%20-%20HDHub4u.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWEippGLsniaelrExp4EWk3pKC-8XTGNIXkJew42HKJuYPgepcXOAbIL4&s=10" group-title="Hindi",420 IPC (2021) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/420%20IPC%20(2021)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/51/ABCD_2_poster.jpeg" group-title="Hindi",ABCD (Any Body Can Dance) (2013) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/ABCD%20(Any%20Body%20Can%20Dance)%20(2013)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIc9vwGqYK820bgnHiNFR4wAXlBqGEA9AvUUsbaQbQaqejzPK8DM9jNqL&s=10" group-title="Hindi",Aakhet (2021) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Aakhet%20(2021)%201080p%20WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD-uuJDAmSwQbHnaNvIqyERA-y044GcV13NSsxVlJ-ibcZQJ8W-DbpDEcQ&s=10" group-title="Hindi",Ae Dil Hai Mushkil (2016) 1080p BluRay
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Ae%20Dil%20Hai%20Mushkil%20(2016)%201080p%20BluRay.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlJyM9p3eMyHO8H_UM9cTInxl9Zl9WVKqU8A-_4zKuMhn9WJ2dIiqy7Q0&s=10" group-title="Hindi",Afwaah (2023) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Afwaah%20(2023)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Ahaan_The_Film_-_Wikipedia_Image.jpg" group-title="Hindi",Ahaan (2021) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Ahaan%20(2021)%201080p%20WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Angrezi_Medium_film_poster.jpg" group-title="Hindi",Angrezi Medium (2020) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Angrezi%20Medium%20(2020)%201080p%20WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Attack_film_poster.jpg" group-title="Hindi",Attack Part 1 (2022) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Attack%20Part%201%20(2022)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppC0PbSD2s3lgt0wd14N54VwhTQ6YVDtDHXaJPFz0kmP5tkSmtCPPTXRi&s=10" group-title="Hindi",Baaghi 3 (2020) 720p PreDVDRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Baaghi%203%20(2020)%20720p%20PreDVDRip.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXIcTPiydkVKO0FtVEL4BGXZQa0BWM71c9DDgaFeOadsd_2L5M5pBQnwCN&s=10" group-title="Hindi",Bade Miyan Chote Miyan (2024) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Bade%20Miyan%20Chote%20Miyan%20(2024)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjd4nuqLgb8eOsViA39wevdDbHAfAfy_ekCnWDoFuwjAyOtFJ6nm4NnJ8&s=10" group-title="Hindi",Baghban (2003) 1080p BluRay
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Baghban%20(2003)%201080p%20BluRay.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVl7WYc0yp9DFK9goyXaQ261H6iKRtH7xcq_O9NEv0SYAiyo9nFwLq0Ro&s=10" group-title="Hindi",Bewakoofiyaan (2014) 1080p BluRay
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Bewakoofiyaan%20(2014)%201080p%20BluRay.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_B0KFRrIYiY_s9CqiyOnSWYGAZpFfXxQ7xllqOD7wXplhVN776QMsdJt&s=10" group-title="Hindi",Bhanwarey (2017) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Bhanwarey%20(2017)%201080p%20WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmBcZIpRtVh-LZfojpjgaCGqoxJ0Hiuedr4CfEn7jHpqtUIMUCA-voQFU&s=10" group-title="Hindi",Chaloo Movie (2013) 720p HDRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Chaloo%20Movie%20(2013)%20720p%20HDRip.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_sXLio2aVzq0gqVZVRLRdsutvfZXUDkhCSVXsGC1Ma3FLTHQ1h69JJNTv&s=10" group-title="Hindi",Chatur Singh Two Star (2011) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Chatur%20Singh%20Two%20Star%20(2011)%201080p%20WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBPN6QnpP-GG3Kp-daebHdfUakY2PjksReZKmq_wqDD092EeSjaRTnsbI&s=10" group-title="Hindi",Dance Dosti Aur Ishqool (2015) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Dance%20Dosti%20Aur%20Ishqool%20(2015)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjLHLIR4Bx8OSZ4KfVGLJA7sBy-aYu4VT6iZtaijgtG9o5qlsNiu1GNxc&s=10" group-title="Hindi",Dilwale Dulhania Le Jayenge (1995) 1080p BluRay
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Dilwale%20Dulhania%20Le%20Jayenge%20(1995)%201080p%20BluRay.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVjhqfLHozYwAfDj8OK11CUrFYrYBabwK1rAOLJ-sB7TBMh0T9IwMMNZwR&s=10" group-title="Hindi",Ek Ladki Ko Dekha Toh Aisa Laga (2019) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Ek%20Ladki%20Ko%20Dekha%20Toh%20Aisa%20Laga%20(2019)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgcQzgQyPkjJhVog1mC3h-UsRj82TlHQ2H8bx5eah0wxMoCoME11l4P2at&s=10" group-title="Hindi",Guddu Ki Gun (2015) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Guddu%20Ki%20Gun%20(2015)%201080p%20WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbQurqW4B-cJ-IiYyjhhHzjmD2jw60peV0YGLqSIsoQFJl4rsvptZqX_IJ&s=10" group-title="Hindi",Gunehgaar (2022) 1080p WEBRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Gunehgaar%20(2022)%201080p%20WEBRip.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Gunjan_Saxena_poster.jpg" group-title="Hindi",Gunjan Saxena The Kargil Girl (2020) 720p WEBRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Gunjan%20Saxena%20The%20Kargil%20Girl%20(2020)%20720p%20WEBRip.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCvBtJUWqRIShXU7wVORLw23qpjAiFROKaV98o1NHuPF1gwkD92U2qZ2g&s=10" group-title="Hindi",Hate Story (2012) 1080p WEbRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Hate%20Story%20(2012)%201080p%20WEbRip.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6T0vDcDPIbwRrAWtEFdDpkr1e_Eduh3uyx7b6bejAG_7EM3Q17VCJyRI&s=10" group-title="Hindi",Hate Story 4 (2018) 1080p WEBRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Hate%20Story%204%20(2018)%201080p%20WEBRip.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Hostel_hindi.jpg" group-title="Hindi",Hostel (2011) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Hostel%20(2011)%201080p%20WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSssd5RkdmQtkBwyp0ZgGp00LBckNrhBWybaTyOOTQDjJ2ZseVuwwGT01qM&s=10" group-title="Hindi",HouseFull 4 (2019) 720p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/HouseFull%204%20(2019)%20720p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/Hum_Saath-Saath_Hain.jpg" group-title="Hindi",Hum Saath Saath Hain (1999) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Hum%20Saath%20Saath%20Hain%20(1999)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_rOGwc_uTPLuD_vQFqyjeO_naz4rcc-oHzEfnOI7DoIB7mxuGyZBXOpE&s=10" group-title="Hindi",Hum Tum Pe Marte Hain (1999) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Hum%20Tum%20Pe%20Marte%20Hain%20(1999)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Jai_Ho_%282013_Hindi_film%29_poster.jpg" group-title="Hindi",Jai Ho (2014) 720p BluRay
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Jai%20Ho%20(2014)%20720p%20BluRay.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJULpjXd_gucXOOf5puApZl_qAije25IWnjvZPcRQY5DtstLaH4Z_x2YU&s=10" group-title="Hindi",Khiladi 786 (2012) 720p BluRay
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Khiladi%20786%20(2012)%20720p%20BluRay.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Logout.jpeg" group-title="Hindi",Logout (2024) 1080p WEBRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Logout%20(2024)%201080p%20WEBRip.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Main_krishna_hoon.jpg" group-title="Hindi",Main Krishna Hoon (2013) 720p DVDRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Main%20Krishna%20Hoon%20(2013)%20720p%20DVDRip.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGhcqxpRq6YROV7uvWeSGxpefBKJNH8oPhbBIQymhIxE2ZxkiUq0XfrGg&s=10" group-title="Hindi",Mardaani 2 (2019) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Mardaani%202%20(2019)%201080p%20WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFAfDvTuMn4kqQ5mQ35QPMD3rEtAIwUmfLalDQcpsG2mXX0DVm-255alI&s=10" group-title="Hindi",Mary Kom (2014) 1080p BluRay
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Mary%20Kom%20(2014)%201080p%20BluRay.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdnCV2ylQOId2VvadhH2qIIX_1vitHYgebqwtuTnHL-OHnMMsiQAEqTVHh&s=10" group-title="Hindi",Mela (2000) 1080p WEBRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Mela%20(2000)%201080p%20WEBRip..mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Mili_2022_poster.jpg" group-title="Hindi",Mili (2022) 1080p WEBRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Mili%20(2022)%201080p%20WEBRip.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJpf8RXaTBcjKChIeZ6gCdtRxBKGZxRv-zDyMJEWPdIuC4o4dEZlgUQo0&s=10" group-title="Hindi",Mister Mummy (2022) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Mister%20Mummy%20(2022)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeBRmUy8vBznqcnTcA7nlgwUx2zzUUjaom6std3otWRx8ebhsvtnxIbu7b&s=10" group-title="Hindi",My Clients Wife (2020) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/My%20Clients%20Wife%20(2020)%201080p%20WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-UUbHLrMQkxBvb45vq05vbn5qMzhQwicg3USPpn1QcLj7KGdI6XzSnTk&s=10" group-title="Hindi",Operation Parindey (2020) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Operation%20Parindey%20(2020)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBe-hilsOr08Hl8a0m5MEZddQIob2b2pA5sgPu9eAwJpcZ7H6g04FyL4tF&s=10" group-title="Hindi",Rab Ne Bana Di Jodi (2008) 1080p BluRay
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Rab%20Ne%20Bana%20Di%20Jodi%20(2008)%201080p%20BluRay.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Run_poster.jpg" group-title="Hindi",Run (2004) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Run%20(2004)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAIFmINItydGoUKw0ojP5vYWPRYQfO_zliuQ&s" group-title="Hindi",Sardar Udham (Sadar Udham) (2021) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Sardar%20Udham%20(Sadar%20Udham)%20(2021)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmEl497FkO2LbNpw4sd6VdrSexra5dOHDfRUIeWqBlHiNUL38bYxXMoUT4&s=10" group-title="Hindi",Sarkar Raj (2008) 1080p BluRay
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Sarkar%20Raj%20(2008)%201080p%20BluRay.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR1ADUvqRCyGEBJMGPkGBDoY0hL2xCAok-kSUhOO6TG-cOgSGNaM11wwM&s=10" group-title="Hindi",Student of the Year (2012) 1080p BluRay
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Student%20of%20the%20Year%20(2012)%201080p%20BluRay.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Uva_-_Poster.jpg" group-title="Hindi",Uvaa (2015) 1080p WEBRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Uvaa%20(2015)%201080p%20WEBRip.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Vaah%21_Life_Ho_Toh_Aisi%21_poster.jpg" group-title="Hindi",Vaah Life Ho Toh Aisi (2005) 720p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Vaah%20Life%20Ho%20Toh%20Aisi%20(2005)%20720p%20WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWAl63MRD30_08kJUcwlWUqw5kGeHgQWXz8Ihs5698zxFpziFN2uNTrKQ&s=10" group-title="Hindi",Yeh Ballet (2020) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Yeh%20Ballet%20(2020)%201080p%20WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqClM4_3FnrFglxrvz0EXLNXt-8r-C_r8bicQLMArE04CVsqh7ZoNQLhg&s=10" group-title="Hindi",Yeh Shaadi Nahi Ho Sakti (2023) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Yeh%20Shaadi%20Nahi%20Ho%20Sakti%20(2023)%201080p%20WEBDL.mp4
-
-
-
-
-
-
-
-
-
-#EXTM3U:-3 {<Title>Hindi Dubbed</Title>}
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ej5RdqurwMKH4idJG3LGa4rJXfu.jpg" group-title="Hindi Dubbed",Paru Parvathy (2025)
-https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Paru.Parvathy.2025.720p.HEVC.WEB.DL.Hindi.5.1.Kannada.ESub.x265.HDHub4u.Ms.mkv
-
-#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="https://image.tmdb.org/t/p/w400/lycbTFBXqFN1kMdPEsnAFutKEEy.jpg", Kanguva (2024)
-https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Kanguva.2024.720p.10Bit.DS4K.WEB-DL.Hindi.2.0-Tamil.5.1.HEVC.x265-HDHub4u.Tv.mkv
-
-#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="https://image.tmdb.org/t/p/w500/tOcyQdSjXEYzIB5lqrwxkp0iSaL.jpg", Thudarum (2025)
-https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Thudarum.2025.720p.10Bit.DS4K.WEB.DL.Hindi.5.1.Malayalam.HEVC.x265.HDHub4u.Ms.mkv
-
-#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="https://image.tmdb.org/t/p/w500/rIkOhREf46L2sdlHN1dkX0qWKMd.jpg", Devils.Double.Next.Level. (2025)
-https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Devils.Double.Next.Level.2025.720p.HEVC.WEB.DL.Hindi.CLEAN.Tamil.x265.HDHub4u.Ms.mkv
-
-#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/14%20Days-Girlfriend%20Intlo%20%282025%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg", 14 Days Girlfriend Intlo (2025)
-http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/14%20Days-Girlfriend%20Intlo%20%282025%29%20720p%20%5BDual%20Audio%5D/14%20Days%20Girlfriend%20Intlo%20%282025%29%20UNCUT%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTelugu%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Aghathiyaa%20%282025%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg", Aghathiyaa (2025)
-http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Aghathiyaa%20%282025%29%20720p%20%5BDual%20Audio%5D/Aghathiyaa%20%282025%29%20UNCUT%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTamil%205.1%5D%20-DMV.mkv
-
-#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Baapu%20%282025%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg", Baapu A Fathers Story (2025)
-http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Baapu%20%282025%29%20720p%20%5BDual%20Audio%5D/Baapu%20A%20Fathers%20Story%20%282025%29%20UNCUT%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTelugu%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Bromance%20%282025%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg", Bromance (2025)
-http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Bromance%20%282025%29%20720p%20%5BDual%20Audio%5D/Bromance%20%282025%29%20UNCUT%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BMalayalam%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Daaku%20Maharaaj%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg", Daaku Maharaaj (2025)
-http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Daaku%20Maharaaj%20%282025%29%201080p%20%5BDual%20Audio%5D/Daaku%20Maharaaj%20%282025%29%20UNCUT%201080p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTelugu%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Dragon%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg", Dragon (2025)
-http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Dragon%20%282025%29%201080p%20%5BDual%20Audio%5D/Dragon%20%282025%29%20UNCUT%201080p%20WEBRip%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTamil%205.1%5D%20-DMV.mkv
-
-#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Good%20Bad%20Ugly%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg", Good Bad Ugly (2025)
-http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Good%20Bad%20Ugly%20%282025%29%201080p%20%5BDual%20Audio%5D/Good%20Bad%20Ugly%20%282025%29%20UNCUT%201080p%20HDRip%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BTamil%202.0%5D%20-HDHub.mkv
-
-#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Hathya%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg", Hathya (2025)
-http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Hathya%20%282025%29%201080p%20%5BDual%20Audio%5D/Hathya%20%282025%29%20UNCUT%201080p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BTelugu%202.0%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Identity%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg", Identity (2025)
-http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Identity%20%282025%29%201080p%20%5BDual%20Audio%5D/Identity%20%282025%29%20UNCUT%201080p%20WEBRip%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BMalayalam%205.1%5D%20-HDHub.mkv
-
-#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Kadhalikka%20Neramillai%20%282025%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg", Kadhalikka Neramillai (2025)
-http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Kadhalikka%20Neramillai%20%282025%29%20720p%20%5BDual%20Audio%5D/Kadhalikka%20Neramillai%20%282025%29%20UNCUT%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTamil%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Kudumbasthan%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg", Kudumbasthan (2025)
-http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Kudumbasthan%20%282025%29%201080p%20%5BDual%20Audio%5D/Kudumbasthan%20%282025%29%20UNCUT%201080p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTamil%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/L2-Empuraan%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg", L2 Empuraan (2025)
-https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/L2.Empuraan.2025.720p.HEVC.DS4K.WEB.DL.Hindi.Malayalam.ESub.x265.HDHub4u.Ms.mkv
-
-#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Mad%20Square%20%282025%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg", Mad Square (2025)
-http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Mad%20Square%20%282025%29%20720p%20%5BDual%20Audio%5D/Mad%20Square%20%282025%29%20UNCUT%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTelugu%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Ponman%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg", Ponman (2025)
-http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Ponman%20%282025%29%201080p%20%5BDual%20Audio%5D/Ponman%20%282025%29%20UNCUT%201080p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BMalayalam%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Pravinkoodu%20Shappu%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg", Pravinkoodu Shappu (2025)
-http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Pravinkoodu%20Shappu%20%282025%29%201080p%20%5BDual%20Audio%5D/Pravinkoodu%20Shappu%20%282025%29%20UNCUT%201080p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BMalayalam%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Retro%20%282025%29%201080p%20HDCAM%20%28Hindi%20Dubbed%29/a_AL_.jpg", Retro (2025)
-http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Retro%20%282025%29%201080p%20HDCAM%20%28Hindi%20Dubbed%29/Retro.2025.1080p.HDCam.Hindi.2.0.HC-ESub.x264-HDHub4u.Ms.mkv
-
-#EXTINF:-1 group-title="Hindi Dubbed" tvg-logo="http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Tuk%20Tuk%20%282025%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg", Tuk Tuk (2025)
-http://10.1.1.1/data/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Tuk%20Tuk%20%282025%29%20720p%20%5BDual%20Audio%5D/Tuk%20Tuk%20%282025%29%20UNCUT%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BTelugu%202.0%5D%20-mkvC.mkv
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMNeOhdIne_RNpNWYn5wfa-5l5qOcM0Qb3dVZ0SAdO4yBdSgdr6mKQyvs&s=10" group-title="Hindi Dubbed",96 (2018) 1080p WEBRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/96%20(2018)%201080p%20WEBRip.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KiFIqcI4EMASTJ9doFOCa_eieYV1vEIK19QLrWBU1eZM5PMR4v-nrvQB&s=10" group-title="Hindi Dubbed",Action (2019) 1080p HDRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Action%20(2019)%201080p%20HDRip.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr4mmh7yVYeZS94o33UF1Fzt9W5enXc7ooFrl4d8WTJshpOeB0UXgL6HI&s=10" group-title="Hindi Dubbed",Bheeshma (2020) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Bheeshma%20(2020)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2SpyJ_AdrxpcTiLL8m4S7FpkxfyQwOAdAwhoBiY5l63w6qDOxtUAq7Do&s=10" group-title="Hindi Dubbed",Cold Case (2021) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Cold%20Case%20(2021)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcMUDGVVHmwi4Xl-dg5q4jtf6SY4fE7Uzo8j5PU4PEoJHR-uKSEpO-mt0&s=10" group-title="Hindi Dubbed",Danny Jiger (2024) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Danny%20Jiger%20(2024)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROs9V4ts9wev6e68gPg5rhiyMqcmYvg8BtlmVltM_H-Cy_7rUFoHqSlo&s=10" group-title="Hindi Dubbed",Dharmaveer (2022) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Dharmaveer%20(2022)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq8pD4sN_ItOSJWazkD9j86l6-9M6-jZ55mrjP-eVLDrC9KZGzBOgAeyM&s=10" group-title="Hindi Dubbed",Four Vol I (2022) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Four%20Vol%20I%20(2022)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnwBBRPzDNtgB04xChFLuweNhwl75i-lFqW9xco5UEu5I57uh0M-5o74I&s=10" group-title="Hindi Dubbed",Gangs Of Madras (2019) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Gangs%20Of%20Madras%20(2019)%201080p%20WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSid87GfcFD18Yr5CVSRRGLBy2YLn07QrzAZpt9yH673gQziGQwSIUF-XD-&s=10" group-title="Hindi Dubbed",Her Chapter 1 (2023) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Her%20Chapter%201%20(2023)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8nGSLY5rhlKb2rIms9jHjJzv2pTIe9b10PALlHTA3lA1zi4h9VxAWefY&s=10" group-title="Hindi Dubbed",Kadaram Kondan (2019) 720p HDRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Kadaram%20Kondan%20(2019)%20720p%20HDRip.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zgayuHpynWvSeF9pn_lmwx0ip8OU0c8TfZrJumDLqq8gzzCfxuqeM5O0&s=10" group-title="Hindi Dubbed",Krack (2021) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Krack%20(2021)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYyPRZGRY4guCmsn1aXNIKGRMZ9nNYI-7tnBVVGb-0ds-0ZUl3p0Opqe0&s=10" group-title="Hindi Dubbed",Kushi (2023) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Kushi%20(2023)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO6Euhn2pBVKEeG_UarMLwNi2opDkE8bcnFBTOgtsnbyOknbIttSywoSqC&s=10" group-title="Hindi Dubbed",Lovedale (2025) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Lovedale%20(2025)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ZaDBwUHnQxFavGraMK8IfY6A4kncgNw51u64PRKklVJL_PwM5swsVyKY&s=10" group-title="Hindi Dubbed",Mafia Chapter 1 (2020) 720p PreDVD
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Mafia%20Chapter%201%20(2020)%20720p%20PreDVD.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWCVP8mM8hFz7Po6pk-U47s6nP6pb3RNfGkwEhR7YUpI_NJjSSYYWm0GY&s=10" group-title="Hindi Dubbed",Maya (2015) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Maya%20(2015)%201080p%20WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvqIwTGWGllB-9WuwHWA8d_KASplSja53kstIgucvzadvhrFrpjGj_l1Y&s=10" group-title="Hindi Dubbed",Minnal Murali (2021) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Minnal%20Murali%20(2021)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXl6sHRMsNHjThn68Z0R4g2zbXOWtqA6wGxDuwqBk2Cr4PJ5n2HVClePE&s=10" group-title="Hindi Dubbed",Natyam (2021) 1080p WEBRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Natyam%20(2021)%201080p%20WEBRip.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3lRcNM6kYHHdwktNYybW6HPQiygXlLUt27HcZ3XVNEzYNNzdz4MteKnoO&s=10" group-title="Hindi Dubbed",Om Shanthi Om (Mera Kartavya My Duty) (2015) 1080p WEBRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Om%20Shanthi%20Om%20(Mera%20Kartavya%20My%20Duty)%20(2015)%201080p%20WEBRip.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoC8CETKQInBc3-awunUJY6a1PHxOsA2sV7pYFuRBkhxZ25g3Qy2uwmmc&s=10" group-title="Hindi Dubbed",Once Upon Two Times (2023) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Once%20Upon%20Two%20Times%20(2023)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_-It5U4nFZQLY8cy2FGuMdG6PGmHeNEuVl6eovCfplTHCt57V7yur0Uk&s=10" group-title="Hindi Dubbed",Oru Kuttanadan Blog (2018) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Oru%20Kuttanadan%20Blog%20(2018)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-h8QPKY_b66KqfzTu8fGI5-OdKOFeEsKVocOsKTPrjTUGVwGPFHx-y0Ts&s=10" group-title="Hindi Dubbed",Petta (2019) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Petta%20(2019)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcWH3RPQV5jQrRy0kXZ4bvXKHxqQ9XdMWcCgc_IFG4tEBkq2KinwVQ_BxL&s=10" group-title="Hindi Dubbed",Raththam (2023) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Raththam%20(2023)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeIaMa5cmTgZdUFEnGu7gIhpt-74LJIfO665kGxnTSix-5mnizEsqfhJgT&s=10" group-title="Hindi Dubbed",Republic (2021) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Republic%20(2021)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvBgTCVYAEUEd_X8FMCqSAR5CIzxcO8MhBS7sJGfNvS2ut__abM7Tb6o8i&s=10" group-title="Hindi Dubbed",Sarkar (2018) Bangla 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Sarkar%20(2018)%20Bangla%201080p%20WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKQgTlMSSSqWEsi91lYmihwCW40gE7tafc9wfQb6xIOVRH7KIGAHF3tnIh&s=10" group-title="Hindi Dubbed",Thoongaavanam (2015) 1080p WEBRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Thoongaavanam%20(2015)%201080p%20WEBRip.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBHpm17A3gAzPiscz0enEwa4vIgpQOynDcPg&s" group-title="Hindi Dubbed",Toby (2023) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Toby%20(2023)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHOfqR0yT9lxkA2mnvNUGUWpCfdwbLMKnQEhpCSro4npP-O9sEPThWPn8&s=10" group-title="Hindi Dubbed",Ugramm (2014) 720p WEBRip
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Ugramm%20(2014)%20720p%20WEBRip.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM9yCwCBqqR_heeuXX4JTuBZZm9ix3aHP9RaHPhBx8xH7NyWJf-1pNnccO&s=10" group-title="Hindi Dubbed",Yugi (Adrishyam) (2022) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Yugi%20(Adrishyam)%20(2022)%201080p%20WEBDL.mp4
-
-
-
-
-
-
-
-
-#EXTM3U:-1 {<Title>Horror</Title>}
-
-#EXTINF:-1 group-title="Horror" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzM5CNIW0L1yiSvNHiBy-16rs8AidVYinR4iz9Mo1CvuDVsanncoSn_c&s=10", Black (2024)
-https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/BLACK.2024.720p.HEVC.DS4K.WEB-DL.Hindi.HQ-Dub.x265-HDHub4u.Tv.mkv
-
-#EXTINF:-1 group-title="Horror" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282020%29/Ghost%20Stories%20%282020%29%201080p/a_AL_.jpg", Ghost Stories (2020)
-http://10.1.1.1/data/Hindi%20Movies/%282020%29/Ghost%20Stories%20%282020%29%201080p/Ghost%20Stories%20%282020%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20LOKiHD.mkv
-
-#EXTINF:-1 group-title="Horror" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282024%29/Bhool%20Bhulaiyaa%203%20%282024%29%201080p/a_AL_.jpg", Bhool Bhulaiyaa 3 (2024)
-http://10.1.1.1/data/Hindi%20Movies/%282024%29/Bhool%20Bhulaiyaa%203%20%282024%29%201080p/Bhool%20Bhulaiyaa%203%20%282024%29%20Hindi%201080p%20WEBRip%20x264%20AAC%20-%20HDHub4u.mkv
-
-#EXTINF:-1 group-title="Horror" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282022%29/Bhool%20Bhulaiyaa%202%20%282022%29%201080p/a_AL_.jpg", Bhool Bhulaiyaa 2 (2022)
-http://10.1.1.1/data/Hindi%20Movies/%282022%29/Bhool%20Bhulaiyaa%202%20%282022%29%201080p/Bhool%20Bhulaiyaa%202%20%282022%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
-
-#EXTINF:-1 group-title="Horror" tvg-logo="http://10.1.1.1/data/Hindi%20Movies/%282007%29/Bhool%20Bhulaiyaa%20%282007%29%201080p/ar2.jpg", Bhool Bhuiaiyaa 1 (2007)
-http://10.1.1.1/data/Hindi%20Movies/%282007%29/Bhool%20Bhulaiyaa%20%282007%29%201080p/Bhool%20Bhulaiyaa%20%282007%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
-
-#EXTINF:-1 group-title="Horror" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2PyNPZuf4ijVCjGfx9tAnX0OEwcHlE2D-yFvdF7lvY0Gz-I_IEvC9adY&s=10", No One Gets Out Alive (2021)
-https://pixeldrain.net/api/file/FJf9YFrP?download
-
-#EXTINF:-1 group-title="Horror" tvg-logo="http://10.1.1.1/data/English%20Movies%20%281080p%29/%282023%29%201080p/Evil%20Dead%20Rise%20%282023%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg", Evil Dead Rise (2023)
-http://10.1.1.1/data/English%20Movies%20%281080p%29/%282023%29%201080p/Evil%20Dead%20Rise%20%282023%29%201080p%20%5BDual%20Audio%5D/Evil%20Dead%20Rise%20%282023%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="Horror" tvg-logo="http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Possession%20of%20Hannah%20Grace%20%282018%29%201080p/a_V1_.jpg", The Possession of Hannah Grace (2018)
-http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Possession%20of%20Hannah%20Grace%20%282018%29%201080p/The.Possession.of.Hannah.Grace.2018.1080p.BRRip.x264.MkvCage.ws.mkv
-
-#EXTINF:-1 group-title="Horror" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbm8EFAI44UC0VWBLpev43rGyBaNXPkhY4-EYc_wtRMP5sNkFAEKLLFpk&s=10", Apocalypse Z (2024)
-https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Apocalypse.Z-The.Beginning.Of.The.End.2024.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Tv.mkv
-
-#EXTINF:-1 group-title="Horror" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzM5CNIW0L1yiSvNHiBy-16rs8AidVYinR4iz9Mo1CvuDVsanncoSn_c&s=10", Black (2024)
-https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/BLACK.2024.720p.HEVC.DS4K.WEB-DL.Hindi.HQ-Dub.x265-HDHub4u.Tv.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSumGx6QoOiZuDV7lV92n1Mi3rH2usjNwtRNNXbzp3y1YedEBujVPVLz_06&s=10" group-title="Horror",Waning Moon (2020) (Hindi Dubbed) 1080p WEBDL
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Waning%20Moon%20(2020)%20(Hindi%20Dubbed)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhDAx0dymTfVo6151b3DilOiOPQcB2ERjZDjLEE0ag99bceVuXT_14DfKJ&s=10" group-title="Horror",Orphan (2009) (Hindi & English) 1080p BluRay
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Orphan%20(2009)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-
-
-
-
-
-
-
-
-
-#EXTM3U:-1 {<Title>Animation Movies</Title>}
-
-
-#EXTINF:-1 tvg-id="Batman_Ninja_vs_Yakuza_League" tvg-name="Batman Ninja vs. Yakuza League 2025" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282025%29/Batman%20Ninja%20vs.%20Yakuza%20League%20%282025%29%20720p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies", Batman Ninja vs. Yakuza League (2025) 
-http://10.1.1.1/data/Animation%20Movies/%282025%29/Batman%20Ninja%20vs.%20Yakuza%20League%20%282025%29%20720p%20AMZN%20%5BDual%20Audio%5D/Batman%20Ninja%20vs.%20Yakuza%20League%20%282025%29%20720p%20AMZN-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BEnglish%205.1%2BJapanese%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 tvg-id="Dog Man (2025)" tvg-name="Dog Man (2025)" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282025%29/Dog%20Man%20%282025%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies", Dog Man (2025)
-http://10.1.1.1/data/Animation%20Movies/%282025%29/Dog%20Man%20%282025%29%20720p%20%5BDual%20Audio%5D/Dog%20Man%20%282025%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 tvg-id="Plankton-The Movie (2025)" tvg-name="Plankton-The Movie (2025)" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282025%29/Plankton-The%20Movie%20%282025%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies", Plankton-The Movie (2025)
-http://10.1.1.1/data/Animation%20Movies/%282025%29/Plankton-The%20Movie%20%282025%29%20720p%20NF%20%5BDual%20Audio%5D/Plankton%20The%20Movie%20%282025%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 tvg-id="The Rose of Versailles (2025)" tvg-name="The Rose of Versailles (2025)" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282025%29/The%20Rose%20of%20Versailles%20%282025%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies", The Rose of Versailles (2025)
-http://10.1.1.1/data/Animation%20Movies/%282025%29/The%20Rose%20of%20Versailles%20%282025%29%20720p%20NF%20%5BDual%20Audio%5D/The%20Rose%20of%20Versailles%20%282025%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BEnglish%205.1%2BJapanese%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 tvg-id="Appu (2024)" tvg-name="Appu (2024)" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282024%29/Appu%20%282024%29%20720p%20BMS%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies", Appu (2024)
-http://10.1.1.1/data/Animation%20Movies/%282024%29/Appu%20%282024%29%20720p%20BMS%20%5BDual%20Audio%5D/Appu%20%282024%29%20720p%20BMS-WEB%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 tvg-id="Baki Hanma vs Kengan Ashura (2024)" tvg-name="Baki Hanma vs Kengan Ashura (2024)" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282024%29/Baki%20Hanma%20VS%20Kengan%20Ashura%20%282024%29%20720p%20NF%20%5BMulti%20Audio%5D/a_AL_.jpg" group-title="Animation Movies", Baki Hanma vs Kengan Ashura (2024)
-http://10.1.1.1/data/Animation%20Movies/%282024%29/Baki%20Hanma%20VS%20Kengan%20Ashura%20%282024%29%20720p%20NF%20%5BMulti%20Audio%5D/Baki%20Hanma%20vs%20Kengan%20Ashura%20%282024%29%20720p%20NF-WEB%20x264%20MSubs%20%5BMulti%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%2BJapanese%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 tvg-id="Barbie and Stacie to the Rescue (2024)" tvg-name="Barbie and Stacie to the Rescue (2024)" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282024%29/Barbie%20and%20Stacie%20to%20the%20Rescue%20%282024%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies", Barbie and Stacie to the Rescue (2024)
-http://10.1.1.1/data/Animation%20Movies/%282024%29/Barbie%20and%20Stacie%20to%20the%20Rescue%20%282024%29%20720p%20NF%20%5BDual%20Audio%5D/Barbie%20and%20Stacie%20to%20the%20Rescue%20%282024%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 tvg-id="Despicable Me 4 (2024)" tvg-name="Despicable Me 4 (2024)" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282024%29/Despicable%20Me%204%20%282024%29%20720p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies", Despicable Me 4 (2024)
-http://10.1.1.1/data/Animation%20Movies/%282024%29/Despicable%20Me%204%20%282024%29%20720p%20AMZN%20%5BDual%20Audio%5D/Despicable%20Me%204%20%282024%29%20UNCUT%20720p%20AMZN-WEB%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 tvg-id="Inside Out 2 (2024)" tvg-name="Inside Out 2 (2024)" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282024%29/Inside%20Out%202%20%282024%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies", Inside Out 2 (2024)
-http://10.1.1.1/data/Animation%20Movies/%282024%29/Inside%20Out%202%20%282024%29%20720p%20%5BDual%20Audio%5D/Inside%20Out%202%20%282024%29%20720p%20BluRay%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 tvg-id="Kung Fu Panda 4 (2024)" tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282024%29/Kung%20Fu%20Panda%204%20%282024%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies", Kung Fu Panda 4 (2024)
-http://10.1.1.1/data/Animation%20Movies/%282024%29/Kung%20Fu%20Panda%204%20%282024%29%20720p%20%5BDual%20Audio%5D/Kung%20Fu%20Panda%204%20%282024%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 tvg-id="Moana 2 (2024)" tvg-name="Moana 2 (2024)" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282024%29/Moana%202%20%282024%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies", Moana 2 (2024)
-http://10.1.1.1/data/Animation%20Movies/%282024%29/Moana%202%20%282024%29%20720p%20%5BDual%20Audio%5D/Moana%202%20%282024%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="Animation Movies" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282024%29/Mufasa-The%20Lion%20King%20%282024%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg", Mufasa The Lion King (2024)
-http://10.1.1.1/data/Animation%20Movies/%282024%29/Mufasa-The%20Lion%20King%20%282024%29%20720p%20%5BDual%20Audio%5D/Mufasa%20The%20Lion%20King%20%282024%29%20720p%20BluRay%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="Animation Movies" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282024%29/Noah%27s%20Ark%20%282024%29%20720p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg", Noahs Ark (2024)
-http://10.1.1.1/data/Animation%20Movies/%282024%29/Noah%27s%20Ark%20%282024%29%20720p%20AMZN%20%5BDual%20Audio%5D/Noahs%20Ark%20%282024%29%20720p%20AMZN-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="Animation Movies" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282024%29/Orion%20and%20the%20Dark%20%282024%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg", Orion And The Drak (2024)
-http://10.1.1.1/data/Animation%20Movies/%282024%29/Orion%20and%20the%20Dark%20%282024%29%20720p%20NF%20%5BDual%20Audio%5D/Orion%20and%20the%20Dark%20%282024%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
-
-#EXTINF:-1 group-title="Animation Movies" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282024%29/Panda%20Bear%20in%20Africa%20%282024%29%20720p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg", Panda Bear In Africa (2024)
-http://10.1.1.1/data/Animation%20Movies/%282024%29/Panda%20Bear%20in%20Africa%20%282024%29%20720p%20AMZN%20%5BDual%20Audio%5D/Panda%20Bear%20in%20Africa%20%282024%29%20720p%20AMZN-WEB%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="Animation Movies" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282024%29/Piece%20by%20Piece%20%282024%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg", Piece By Piece (2024)
-http://10.1.1.1/data/Animation%20Movies/%282024%29/Piece%20by%20Piece%20%282024%29%20720p%20%5BDual%20Audio%5D/Piece%20by%20Piece%20%282024%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="Animation Movies" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282024%29/Saving%20Bikini%20Bottom-The%20Sandy%20Cheeks%20Movie%20%282024%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg", Saving Bikini Bottom The Sandy Cheeks Movie (2024)
-http://10.1.1.1/data/Animation%20Movies/%282024%29/Saving%20Bikini%20Bottom-The%20Sandy%20Cheeks%20Movie%20%282024%29%20720p%20NF%20%5BDual%20Audio%5D/Saving%20Bikini%20Bottom%20The%20Sandy%20Cheeks%20Movie%20%282024%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="Animation Movies" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282024%29/Sing-Thriller%20%282024%29%20720p%20NF%20%5BDual%20Audio%5D%20%5BSHORT%5D/a_AL_.jpg", Sing Thriller (2024)
-http://10.1.1.1/data/Animation%20Movies/%282024%29/Sing-Thriller%20%282024%29%20720p%20NF%20%5BDual%20Audio%5D%20%5BSHORT%5D/Sing%20Thriller%20%282024%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="Animation Movies" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282024%29/Spellbound%20%282024%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg", SpellBound (2024)
-http://10.1.1.1/data/Animation%20Movies/%282024%29/Spellbound%20%282024%29%20720p%20NF%20%5BDual%20Audio%5D/Spellbound%20%282024%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="Animation Movies" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282024%29/That%20Christmas%20%282024%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg", Thet Christmas (2024)
-http://10.1.1.1/data/Animation%20Movies/%282024%29/That%20Christmas%20%282024%29%20720p%20NF%20%5BDual%20Audio%5D/That%20Christmas%20%282024%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="Animation Movies" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282024%29/The%20Casagrandes%20Movie%20%282024%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg", The Casagrandes Movie (2024)
-http://10.1.1.1/data/Animation%20Movies/%282024%29/The%20Casagrandes%20Movie%20%282024%29%20720p%20NF%20%5BDual%20Audio%5D/The%20Casagrandes%20Movie%20%282024%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="Animation Movies" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282024%29/The%20Garfield%20Movie%20%282024%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg", The Garfield Movie (2024)
-http://10.1.1.1/data/Animation%20Movies/%282024%29/The%20Garfield%20Movie%20%282024%29%20720p%20%5BDual%20Audio%5D/The%20Garfield%20Movie%20%282024%29%20720p%20BluRay%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 group-title="Animation Movies" tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282024%29/The%20Tiger%27s%20Apprentice%20%282024%29%20720p%20WEBRip/a_AL_.jpg", The Tigers Apprentice (2024)
-http://10.1.1.1/data/Animation%20Movies/%282024%29/The%20Tiger%27s%20Apprentice%20%282024%29%20720p%20WEBRip/The.Tigers.Apprentice.2024.720p.AMZN.WEBRip.800MB.x264-GalaxyRG.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzGdcTlVqvk4HUNntEalC29p3OuJWhLMZsQBm7BKH_loJS1lzAw7EUVNS8&s=10" group-title="Animation Movies",The Lion King 3 Hakuna Matata (2004) (Hindi & English) 1080p BluRay
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/The%20Lion%20King%203%20Hakuna%20Matata%20(2004)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-
+#EXTM3U
+#============================================ Animation Movies ==========================================
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/5%20More%20Sleeps%20%27til%20Christmas%20%282021%29%20720p%20WEBRip%20%5BSHORT%5D/a_AL_.jpg" group-title="Animation Movies 2022",5 More Sleeps Til Christmas 2021 720p WEBRip 400MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/5%20More%20Sleeps%20%27til%20Christmas%20%282021%29%20720p%20WEBRip%20%5BSHORT%5D/5.More.Sleeps.Til.Christmas.2021.720p.WEBRip.400MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Ainbo%20%282021%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",AINBO Spirit of the Amazon (2021) 720p BluRay x264 ESub [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Ainbo%20%282021%29%20720p%20%5BDual%20Audio%5D/AINBO%20Spirit%20of%20the%20Amazon%20%282021%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/America-The%20Motion%20Picture%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",America The Motion Picture (2021) 720p NF-WEB x265 HEVC ESub [Dual Audio][English 5 1+Hindi 5 1] -mkvA
+http://10.1.1.1/data/Animation%20Movies/%282021%29/America-The%20Motion%20Picture%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/America%20The%20Motion%20Picture%20%282021%29%20720p%20NF-WEB%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BEnglish%205.1%2BHindi%205.1%5D%20-mkvA.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Arlo%20the%20Alligator%20Boy%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Arlo the Alligator Boy 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Arlo%20the%20Alligator%20Boy%20%282021%29%20720p%20WEBRip/Arlo.the.Alligator.Boy.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Around%20the%20World%20in%2080%20Days%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Around the World in 80 Days 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Around%20the%20World%20in%2080%20Days%20%282021%29%20720p%20WEBRip/Around.the.World.in.80.Days.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Back%20to%20the%20Outback%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Back to the Outback (2021) 720p NF-WEB x264 MSubs [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Back%20to%20the%20Outback%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/Back%20to%20the%20Outback%20%282021%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Barbie%20%26%20Chelsea%20the%20Lost%20Birthday%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Barbie and Chelsea The Lost Birthday (2021) 720p NF-WEB x264 MSubs [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Barbie%20%26%20Chelsea%20the%20Lost%20Birthday%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/Barbie%20and%20Chelsea%20The%20Lost%20Birthday%20%282021%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Batman-Soul%20of%20the%20Dragon%20%282021%29%20720p/a_AL_.jpg" group-title="Animation Movies 2022",Batman Soul of the Dragon 2021 720p BluRay 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Batman-Soul%20of%20the%20Dragon%20%282021%29%20720p/Batman.Soul.of.the.Dragon.2021.720p.BluRay.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Batman-The%20Long%20Halloween%2C%20Part%20One%20%282021%29%20720p/a_VL_.jpg" group-title="Animation Movies 2022",Batman The Long Halloween Part One 2021 720p BluRay 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Batman-The%20Long%20Halloween%2C%20Part%20One%20%282021%29%20720p/Batman.The.Long.Halloween.Part.One.2021.720p.BluRay.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Batman-The%20Long%20Halloween%2C%20Part%20Two%20%282021%29%20720p/a_AL_.jpg" group-title="Animation Movies 2022",Batman The Long Halloween Part 2 2021 720p BluRay 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Batman-The%20Long%20Halloween%2C%20Part%20Two%20%282021%29%20720p/Batman.The.Long.Halloween.Part.2.2021.720p.BluRay.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Belle%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",BELLE 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Belle%20%282021%29%20720p%20WEBRip/BELLE.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Blush%20%282021%29%20720p%20%5BDual%20Audio%5D%20%5BSHORT%5D/a_AL_.jpg" group-title="Animation Movies 2022",Blush (2021) 720p ATVP-WEB x264 MSubs [Dual Audio][Hindi 5 1+English 5 1] -mkvA
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Blush%20%282021%29%20720p%20%5BDual%20Audio%5D%20%5BSHORT%5D/Blush%20%282021%29%20720p%20ATVP-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvA.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Charlotte%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Charlotte 2021 720p AMZN WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Charlotte%20%282021%29%20720p%20WEBRip/Charlotte.2021.720p.AMZN.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Checkered%20Ninja%202%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Checkered Ninja 2 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Checkered%20Ninja%202%20%282021%29%20720p%20WEBRip/Checkered.Ninja.2.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Child%20of%20Kamiari%20Month%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Child of Kamiari Month (2021) 720p NF-WEB x264 MSubs [Dual Audio][English 5 1+Japanese 5 1] -mkvA
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Child%20of%20Kamiari%20Month%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/Child%20of%20Kamiari%20Month%20%282021%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BEnglish%205.1%2BJapanese%205.1%5D%20-mkvA.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Ciao%20Alberto%20%282021%29%20720p%20WEBRip%20%5BSHORT%5D/a_AL_.jpg" group-title="Animation Movies 2022",Ciao Alberto 2021 720p DSNP WEBRip 400MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Ciao%20Alberto%20%282021%29%20720p%20WEBRip%20%5BSHORT%5D/Ciao.Alberto.2021.720p.DSNP.WEBRip.400MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Crayon%20Shin-chan%20-%20Shrouded%20in%20Mystery%21%20The%20Flowers%20of%20Tenkazu%20Academy%20%282021%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Crayon Shin chan Shrouded in Mystery TFTA (2021) 720p BluRay x264 ESub [Dual Audio][Hindi 2 0+Japanese 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Crayon%20Shin-chan%20-%20Shrouded%20in%20Mystery%21%20The%20Flowers%20of%20Tenkazu%20Academy%20%282021%29%20720p%20%5BDual%20Audio%5D/Crayon%20Shin%20chan%20Shrouded%20in%20Mystery%20TFTA%20%282021%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BJapanese%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Crayon%20Shin-chan%20-%20Shrouded%20in%20Mystery%21%20The%20Flowers%20of%20Tenkazu%20Academy%20%282021%29%20720p%20%5BMulti%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Shinchan The Mystery of Tenkasu Academy (2021) 720p BluRay x264 ESub [Multi Audio][Hindi 2 0+Multi 2 0] -TW4all
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Crayon%20Shin-chan%20-%20Shrouded%20in%20Mystery%21%20The%20Flowers%20of%20Tenkazu%20Academy%20%282021%29%20720p%20%5BMulti%20Audio%5D/Shinchan%20The%20Mystery%20of%20Tenkasu%20Academy%20%282021%29%20720p%20BluRay%20x264%20ESub%20%5BMulti%20Audio%5D%5BHindi%202.0%2BMulti%202.0%5D%20-TW4all.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Cryptozoo%20%282021%29%20720p/a_AL_.jpg" group-title="Animation Movies 2022",Cryptozoo 2021 720p BluRay 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Cryptozoo%20%282021%29%20720p/Cryptozoo.2021.720p.BluRay.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Curious%20George-Cape%20Ahoy%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Curious George Cape Ahoy 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Curious%20George-Cape%20Ahoy%20%282021%29%20720p%20WEBRip/Curious.George.Cape.Ahoy.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Daisy%20Quokka-World%27s%20Scariest%20Animal%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Daisy Quokka-Worlds Scariest Animal 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Daisy%20Quokka-World%27s%20Scariest%20Animal%20%282021%29%20720p%20WEBRip/Daisy.Quokka-Worlds.Scariest.Animal.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Diary%20of%20a%20Wimpy%20Kid%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Diary of a Wimpy Kid 2021 720p DSNP WEBRip 400MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Diary%20of%20a%20Wimpy%20Kid%20%282021%29%20720p%20WEBRip/Diary.of.a.Wimpy.Kid.2021.720p.DSNP.WEBRip.400MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Dogtanian%20and%20the%20Three%20Muskehounds%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Dogtanian and the Three Muskehounds 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Dogtanian%20and%20the%20Three%20Muskehounds%20%282021%29%20720p%20WEBRip/Dogtanian.and.the.Three.Muskehounds.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Eggs%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Eggs 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Eggs%20%282021%29%20720p%20WEBRip/Eggs.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Encanto%20%282021%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Encanto (2021) 720p BluRay x264 ESub [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Encanto%20%282021%29%20720p%20%5BDual%20Audio%5D/Encanto%20%282021%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Evangelion%203.0%2B1.01%20Thrice%20Upon%20a%20Time%20%282021%29%20720p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Evangelion 3 0 1 0 Thrice Upon a Time (2021) 720p AMZN-WEB x264 MSubs [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Evangelion%203.0%2B1.01%20Thrice%20Upon%20a%20Time%20%282021%29%20720p%20AMZN%20%5BDual%20Audio%5D/Evangelion%203.0%201.0%20Thrice%20Upon%20a%20Time%20%282021%29%20720p%20AMZN-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Even%20Mice%20Belong%20in%20Heaven%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Even Mice Belong in Heaven 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Even%20Mice%20Belong%20in%20Heaven%20%282021%29%20720p%20WEBRip/Even.Mice.Belong.in.Heaven.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Extinct%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Extinct 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Extinct%20%282021%29%20720p%20WEBRip/Extinct.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Felix%20and%20the%20Hidden%20Treasure%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Felix and the Hidden Treasure 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Felix%20and%20the%20Hidden%20Treasure%20%282021%29%20720p%20WEBRip/Felix.and.the.Hidden.Treasure.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Ghost%20in%20the%20Shell-SAC_2045%20Sustainable%20War%20%282021%29%20720p%20NF%20%5BMulti%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Ghost in the Shell SAC 2045 Sustainable War (2021) 720p NF-WEB x264 MSubs [Multi Audio][Hindi 5 1+English 5 1+Japanese 5 1] -mkvA
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Ghost%20in%20the%20Shell-SAC_2045%20Sustainable%20War%20%282021%29%20720p%20NF%20%5BMulti%20Audio%5D/Ghost%20in%20the%20Shell%20SAC_2045%20Sustainable%20War%20%282021%29%20720p%20NF-WEB%20x264%20MSubs%20%5BMulti%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%2BJapanese%205.1%5D%20-mkvA.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Go%21%20Go%21%20Cory%20Carson-Chrissy%20Takes%20the%20Wheel%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Go Go Cory Carson Chrissy Takes the Wheel (2021) 720p NF-WEB x264 MSubs [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Go%21%20Go%21%20Cory%20Carson-Chrissy%20Takes%20the%20Wheel%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/Go%20Go%20Cory%20Carson%20Chrissy%20Takes%20the%20Wheel%20%282021%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Gulliver%20Returns%20%282021%29%20720p%20AMZN/a_AL_.jpg" group-title="Animation Movies 2022",Gulliver Returns 2021 720p AMZN WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Gulliver%20Returns%20%282021%29%20720p%20AMZN/Gulliver.Returns.2021.720p.AMZN.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Injustice%20%282021%29%20720p/a_AL_.jpg" group-title="Animation Movies 2022",Injustice 2021 720p BluRay 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Injustice%20%282021%29%20720p/Injustice.2021.720p.BluRay.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Jujutsu%20Kaisen%200-The%20Movie%20%282021%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Jujutsu Kaisen 0 (2021) 720p BluRay x264 MSubs [Dual Audio][English 2 0+Japanese 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Jujutsu%20Kaisen%200-The%20Movie%20%282021%29%20720p%20%5BDual%20Audio%5D/Jujutsu%20Kaisen%200%20%282021%29%20720p%20BluRay%20x264%20MSubs%20%5BDual%20Audio%5D%5BEnglish%202.0%2BJapanese%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Justice%20Society-World%20War%20II%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Justice Society World War II 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Justice%20Society-World%20War%20II%20%282021%29%20720p%20WEBRip/Justice.Society.World.War.II.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Koati%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Koati 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Koati%20%282021%29%20720p%20WEBRip/Koati.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Lamya%27s%20Poem%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Lamyas Poem 2021 720p AMZN WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Lamya%27s%20Poem%20%282021%29%20720p%20WEBRip/Lamyas.Poem.2021.720p.AMZN.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Little%20Sorcerer%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Little Sorcerer 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Little%20Sorcerer%20%282021%29%20720p%20WEBRip/Little.Sorcerer.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Luca%20%282021%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Luca (2021) 720p BluRay x264 ESub [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Luca%20%282021%29%20720p%20%5BDual%20Audio%5D/Luca%20%282021%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Mad%20God%20%282021%29%20720p/a_AL_.jpg" group-title="Animation Movies 2022",Mad God 2021 720p 10bit WEBRip 2CH x265 HEVC-PSA
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Mad%20God%20%282021%29%20720p/Mad.God.2021.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Marcel%20the%20Shell%20with%20Shoes%20On%20%282021%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Marcel the Shell with Shoes On (2021) 720p BluRay x264 ESub [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Marcel%20the%20Shell%20with%20Shoes%20On%20%282021%29%20720p%20%5BDual%20Audio%5D/Marcel%20the%20Shell%20with%20Shoes%20On%20%282021%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Maya%20the%20Bee%203-The%20Golden%20Orb%20%282021%29%20720p%20WEBRip/a11.jpeg" group-title="Animation Movies 2022",Maya The Bee The Golden Orb 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Maya%20the%20Bee%203-The%20Golden%20Orb%20%282021%29%20720p%20WEBRip/Maya.The.Bee.The.Golden.Orb.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Mission-Galaxy%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Mission Galaxy 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Mission-Galaxy%20%282021%29%20720p%20WEBRip/Mission.Galaxy.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Monkey%20King%20Reborn%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Monkey King Reborn 2021 720p BluRay 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Monkey%20King%20Reborn%20%282021%29%20720p%20WEBRip/Monkey.King.Reborn.2021.720p.BluRay.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Monster%20Family%202%20%282021%29%20720p/a_AL_.jpg" group-title="Animation Movies 2022",Monster Family 2 2021 720p BluRay 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Monster%20Family%202%20%282021%29%20720p/Monster.Family.2.2021.720p.BluRay.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Monster%20Hunter-Legends%20of%20the%20Guild%20%282021%29%20720p%20WEBRip%20%5BSHORT%5D/a_AL_.jpg" group-title="Animation Movies 2022",Monster Hunter Legends Of The Guild 2021 720p WEBRip 400MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Monster%20Hunter-Legends%20of%20the%20Guild%20%282021%29%20720p%20WEBRip%20%5BSHORT%5D/Monster.Hunter.Legends.Of.The.Guild.2021.720p.WEBRip.400MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Moonbound%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Moonbound 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Moonbound%20%282021%29%20720p%20WEBRip/Moonbound.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Mortal%20Kombat%20Legends-Battle%20of%20the%20Realms%20%282021%29%20720p/a_AL_.jpg" group-title="Animation Movies 2022",Mortal Kombat Legends Battle of the Realms 2021 720p BluRay 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Mortal%20Kombat%20Legends-Battle%20of%20the%20Realms%20%282021%29%20720p/Mortal.Kombat.Legends.Battle.of.the.Realms.2021.720p.BluRay.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/My%20Hero%20Academia-World%20Heroes%27%20Mission%20%282021%29%20720p%20%5BMulti%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",My Hero Academia World Heroes Mission (2021) 720p BluRay x264 ESub [Multi Audio][Hindi 5 1+English 5 1+Japanese 5 1] -MsMod
+http://10.1.1.1/data/Animation%20Movies/%282021%29/My%20Hero%20Academia-World%20Heroes%27%20Mission%20%282021%29%20720p%20%5BMulti%20Audio%5D/My%20Hero%20Academia%20World%20Heroes%20Mission%20%282021%29%20720p%20BluRay%20x264%20ESub%20%5BMulti%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%2BJapanese%205.1%5D%20-MsMod.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/My%20Little%20Pony-A%20New%20Generation%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",My Little Pony A New Generation (2021) 720p NF-WEB x264 MSubs [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/My%20Little%20Pony-A%20New%20Generation%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/My%20Little%20Pony%20A%20New%20Generation%20%282021%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/My%20Sweet%20Monster%20%282021%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",My Sweet Monster (2021) 720p BluRay x264 ESub [Dual Audio][Hindi 5 1+English 5 1] -MsMod
+http://10.1.1.1/data/Animation%20Movies/%282021%29/My%20Sweet%20Monster%20%282021%29%20720p%20%5BDual%20Audio%5D/My%20Sweet%20Monster%20%282021%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/New%20Gods-Nezha%20Reborn%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",New Gods Nezha Reborn (2021) 720p NF-WEB x264 ESub [Dual Audio][English 5 1+Chinese 2 0] -Tw4all
+http://10.1.1.1/data/Animation%20Movies/%282021%29/New%20Gods-Nezha%20Reborn%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/New%20Gods%20Nezha%20Reborn%20%282021%29%20720p%20NF-WEB%20x264%20ESub%20%5BDual%20Audio%5D%5BEnglish%205.1%2BChinese%202.0%5D%20-Tw4all.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Night%20of%20the%20Animated%20Dead%20%282021%29%20720p/a_AL_.jpg" group-title="Animation Movies 2022",Night of the Animated Dead 2021 720p BluRay 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Night%20of%20the%20Animated%20Dead%20%282021%29%20720p/Night.of.the.Animated.Dead.2021.720p.BluRay.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/PAW%20Patrol-The%20Movie%20%282021%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",PAW Patrol The Movie (2021) 720p BluRay x264 ESub [Dual Audio][Hindi 5 1+English 5 1] -MsMod
+http://10.1.1.1/data/Animation%20Movies/%282021%29/PAW%20Patrol-The%20Movie%20%282021%29%20720p%20%5BDual%20Audio%5D/PAW%20Patrol%20The%20Movie%20%282021%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Peter%20Rabbit%202-The%20Runaway%20%282021%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Peter Rabbit 2 The Runaway (2021) 720p BluRay x264 ESub [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Peter%20Rabbit%202-The%20Runaway%20%282021%29%20720p%20%5BDual%20Audio%5D/Peter%20Rabbit%202%20The%20Runaway%20%282021%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Pil%27s%20Adventures%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Pils Adventures 2021 720p AMZN WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Pil%27s%20Adventures%20%282021%29%20720p%20WEBRip/Pils.Adventures.2021.720p.AMZN.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Raya%20and%20the%20Last%20Dragon%20%282021%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Raya and the Last Dragon (2021) 720p BluRay x264 ESub [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Raya%20and%20the%20Last%20Dragon%20%282021%29%20720p%20%5BDual%20Audio%5D/Raya%20and%20the%20Last%20Dragon%20%282021%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Riverdance-The%20Animated%20Adventure%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Riverdance The Animated Adventure (2021) 720p NF-WEB x264 MSubs [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Riverdance-The%20Animated%20Adventure%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/Riverdance%20The%20Animated%20Adventure%20%282021%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Robin%20Robin%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Robin Robin 2021 720p NF WEBRip 400MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Robin%20Robin%20%282021%29%20720p%20WEBRip/Robin.Robin.2021.720p.NF.WEBRip.400MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Rock%20Dog%202-Rock%20Around%20the%20Park%20%282021%29%20720p/a_AL_.jpg" group-title="Animation Movies 2022",Rock Dog 2 Rock Around The Park 2021 720p BluRay 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Rock%20Dog%202-Rock%20Around%20the%20Park%20%282021%29%20720p/Rock.Dog.2.Rock.Around.The.Park.2021.720p.BluRay.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Ron%27s%20Gone%20Wrong%20%282021%29%20720p/a_AL_.jpg" group-title="Animation Movies 2022",Rons Gone Wrong 2021 720p BluRay 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Ron%27s%20Gone%20Wrong%20%282021%29%20720p/Rons.Gone.Wrong.2021.720p.BluRay.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Rumble%20%282021%29%20720p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Rumble (2021) 720p AMZN-WEB x264 MSubs [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Rumble%20%282021%29%20720p%20AMZN%20%5BDual%20Audio%5D/Rumble%20%282021%29%20720p%20AMZN-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Scooby-Doo%21%20Meets%20Courage%20the%20Cowardly%20Dog%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Straight Outta Nowhere Scooby Doo Meets Courage the Cowardly Dog 2021 720p AMZN WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Scooby-Doo%21%20Meets%20Courage%20the%20Cowardly%20Dog%20%282021%29%20720p%20WEBRip/Straight.Outta.Nowhere.Scooby.Doo.Meets.Courage.the.Cowardly.Dog.2021.720p.AMZN.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Scooby-Doo%21%20The%20Sword%20and%20the%20Scoob%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Scooby Doo The Sword And The Scoob 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Scooby-Doo%21%20The%20Sword%20and%20the%20Scoob%20%282021%29%20720p%20WEBRip/Scooby.Doo.The.Sword.And.The.Scoob.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Seal%20Team%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Seal Team (2021) 720p NF-WEB x264 MSubs [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Seal%20Team%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/Seal%20Team%20%282021%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Secret%20Magic%20Control%20Agency%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Secret Magic Control Agency 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Secret%20Magic%20Control%20Agency%20%282021%29%20720p%20WEBRip/Secret.Magic.Control.Agency.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Sing%202%20%282021%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Sing 2 (2021) 720p BluRay x264 ESub [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Sing%202%20%282021%29%20720p%20%5BDual%20Audio%5D/Sing%202%20%282021%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Snoopy%20Presents-For%20Auld%20Lang%20Syne%20%282021%29%20720p%20ATVP%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Snoopy Presents For Auld Lang Syne (2021) 720p ATVP-WEB x264 MSubs [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Snoopy%20Presents-For%20Auld%20Lang%20Syne%20%282021%29%20720p%20ATVP%20%5BDual%20Audio%5D/Snoopy%20Presents%20For%20Auld%20Lang%20Syne%20%282021%29%20720p%20ATVP-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/South%20Park%20Post%20COVID%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",South Park Post COVID 2021 720p AMZN WEBRip 400MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/South%20Park%20Post%20COVID%20%282021%29%20720p%20WEBRip/South.Park.Post.COVID.2021.720p.AMZN.WEBRip.400MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/South%20Park-Post%20Covid%20-%20The%20Return%20of%20Covid%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",South Park Post Covid Covid Returns 2021 720p AMZN WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/South%20Park-Post%20Covid%20-%20The%20Return%20of%20Covid%20%282021%29%20720p%20WEBRip/South.Park.Post.Covid.Covid.Returns.2021.720p.AMZN.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Spirit%20Untamed%20%282021%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Spirit Untamed (2021) 720p BluRay x264 ESub [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Spirit%20Untamed%20%282021%29%20720p%20%5BDual%20Audio%5D/Spirit%20Untamed%20%282021%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Straight%20Outta%20Nowhere%20-%20Scooby-Doo%21%20Meets%20Courage%20the%20Cowardly%20Dog%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Scooby-Doo Meets Courage the Cowardly Dog 2021 720p WEBRip x264 ESub-MsVerse
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Straight%20Outta%20Nowhere%20-%20Scooby-Doo%21%20Meets%20Courage%20the%20Cowardly%20Dog%20%282021%29%20720p%20WEBRip/Scooby-Doo.Meets.Courage.the.Cowardly.Dog.2021.720p.WEBRip.x264.ESub-MsVerse.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Super%20Monsters-Once%20Upon%20a%20Rhyme%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Super Monsters Once Upon a Rhyme (2021) 720p NF-WEB x264 MSubs [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Super%20Monsters-Once%20Upon%20a%20Rhyme%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/Super%20Monsters%20Once%20Upon%20a%20Rhyme%20%282021%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Teen%20Titans%20Go%21%20See%20Space%20Jam%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Teen Titans Go! See Space Jam 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Teen%20Titans%20Go%21%20See%20Space%20Jam%20%282021%29%20720p%20WEBRip/Teen.Titans.Go%21.See.Space.Jam.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Addams%20Family%202%20%282021%29%20720p/a_AL_.jpg" group-title="Animation Movies 2022",The Addams Family 2 2021 720p BluRay 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Addams%20Family%202%20%282021%29%20720p/The.Addams.Family.2.2021.720p.BluRay.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Ape%20Star%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Ape Star 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Ape%20Star%20%282021%29%20720p%20WEBRip/Ape.Star.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Boss%20Baby-Family%20Business%20%282021%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",The Boss Baby Family Business (2021) 720p BluRay x264 ESub [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Boss%20Baby-Family%20Business%20%282021%29%20720p%20%5BDual%20Audio%5D/The%20Boss%20Baby%20Family%20Business%20%282021%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Clockwork%20Girl%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",The Clockwork Girl 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Clockwork%20Girl%20%282021%29%20720p%20WEBRip/The.Clockwork.Girl.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Deer%20King%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",The Deer King 2021 Japanese 720p BluRay x264 ESub-MsMod
+http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Deer%20King%20%282021%29%20720p%20WEBRip/The.Deer.King.2021.Japanese.720p.BluRay.x264.ESub-MsMod.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Good%2C%20the%20Bart%2C%20and%20the%20Loki%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",The Good The Bart and The Loki 2021 720p WEBRip 400MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Good%2C%20the%20Bart%2C%20and%20the%20Loki%20%282021%29%20720p%20WEBRip/The.Good.The.Bart.and.The.Loki.2021.720p.WEBRip.400MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Last%20Warrior%20%282021%29%20720p%20WEBRip%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",The Last Warrior (Realm of Terracotta) (2021) 720p WEBRip x264 ESub [Dual Audio][Hindi 2 0+English 2 0] -MsMod
+http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Last%20Warrior%20%282021%29%20720p%20WEBRip%20%5BDual%20Audio%5D/The%20Last%20Warrior%20%28Realm%20of%20Terracotta%29%20%282021%29%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-MsMod.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Loud%20House%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",The Loud House Movie (2021) 720p NF-WEB x264 MSubs [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Loud%20House%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/The%20Loud%20House%20Movie%20%282021%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Mitchells%20vs.%20the%20Machines%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",The Mitchells vs  the Machines (2021) 720p NF-WEB x264 MSubs [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Mitchells%20vs.%20the%20Machines%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/The%20Mitchells%20vs.%20the%20Machines%20%282021%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Ogglies%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Smelliville aka The Ogglies 2021 720p WEBRip 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Ogglies%20%282021%29%20720p%20WEBRip/Smelliville.aka.The.Ogglies.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Spine%20of%20Night%20%282021%29%20720p/a_AL_.jpg" group-title="Animation Movies 2022",The Spine of Night 2021 720p BluRay 800MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Spine%20of%20Night%20%282021%29%20720p/The.Spine.of.Night.2021.720p.BluRay.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Summit%20of%20the%20Gods%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",The Summit of the Gods (2021) 720p NF-WEB x264 MSubs [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Summit%20of%20the%20Gods%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/The%20Summit%20of%20the%20Gods%20%282021%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Witcher-Nightmare%20of%20the%20Wolf%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",The Witcher Nightmare of the Wolf (2021) 720p NF-WEB x264 MSubs [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/The%20Witcher-Nightmare%20of%20the%20Wolf%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/The%20Witcher%20Nightmare%20of%20the%20Wolf%20%282021%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Tom%20and%20Jerry%20%282021%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Tom and Jerry (2021) 720p BluRay x264 ESub [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Tom%20and%20Jerry%20%282021%29%20720p%20%5BDual%20Audio%5D/Tom%20and%20Jerry%20%282021%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Trollhunters-Rise%20of%20the%20Titans%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Trollhunters Rise of the Titans (2021) 720p NF-WEB x264 MSubs [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Trollhunters-Rise%20of%20the%20Titans%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/Trollhunters%20Rise%20of%20the%20Titans%20%282021%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Trolls%20Holiday%20in%20Harmony%20%282021%29%20720p%20WEBRip/a_AL_.jpg" group-title="Animation Movies 2022",Trolls Holiday in Harmony 2021 720p WEBRip 400MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Trolls%20Holiday%20in%20Harmony%20%282021%29%20720p%20WEBRip/Trolls.Holiday.in.Harmony.2021.720p.WEBRip.400MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Vivo%20%282021%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Vivo (2021) 720p BluRay x264 ESub [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Vivo%20%282021%29%20720p%20%5BDual%20Audio%5D/Vivo%20%282021%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/White%20Snake%202-Green%20Snake%20%282021%29%20720p%20NF/a_AL_.jpg" group-title="Animation Movies 2022",White Snake 2 The Tribulation of the Green Snake 2021 DUBBED 720p NF WEBRip 900MB x264-GalaxyRG
+http://10.1.1.1/data/Animation%20Movies/%282021%29/White%20Snake%202-Green%20Snake%20%282021%29%20720p%20NF/White.Snake.2.The.Tribulation.of.the.Green.Snake.2021.DUBBED.720p.NF.WEBRip.900MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://10.1.1.1/data/Animation%20Movies/%282021%29/Wish%20Dragon%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies 2022",Wish Dragon (2021) 720p NF-WEB x264 MSubs [Dual Audio][Hindi 5 1+English 5 1] -mkvC
+http://10.1.1.1/data/Animation%20Movies/%282021%29/Wish%20Dragon%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/Wish%20Dragon%20%282021%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#======================================== End Animation Movies =======================
 
 
