@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<name>My Playlist</name>
-<thumb>https://i.ibb.co/JjRSLs9n/9368120.jpg</thumb>
-<fanart>https://i.ibb.co/Z6Lwtjyb/1000050626-optimized.jpg</fanart>
+<playlist>
+    <name>My Playlist</name>
+    <thumb>https://i.ibb.co/JjRSLs9n/9368120.jpg</thumb>
+    <fanart>https://i.ibb.co/Z6Lwtjyb/1000050626-optimized.jpg</fanart>
 
-<movies>
-    <movie>
-        <title>A Working Man</title>
-        <year>2025</year>
-        <genre>Action, Crime, Thriller</genre>
-        <link>https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/A.Working.Man.2025.720p.10Bit.WEB.DL.Hindi.5.1.English.HEVC.x265.HDHub4u.Ms.mkv</link>
-        <thumbnail>https://i.ibb.co/TMMtjkLS/a-AL-1.jpg</thumbnail>
-        <poster>https://i.ibb.co/TMMtjkLS/a-AL-1.jpg</poster>
-        <fanart>https://i.ibb.co/TMMtjkLS/a-AL-1.jpg</fanart>
-    </movie>
-    <movie>
-        <title>Ash</title>
-        <year>2025</year>
-        <genre>Science Fiction, Horror, Thriller</genre>
-        <link>https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Ash.2025.720p.10Bit.HEVC.WEB.DL.Hindi.5.1.English.5.1.ESub.x264.HDHub4u.Ms.mkv</link>
-        <thumbnail>https://i.ibb.co/8gmTXyV4/a-AL.jpg</thumbnail>
-        <poster>https://i.ibb.co/8gmTXyV4/a-AL.jpg</poster>
-        <fanart>https://i.ibb.co/8gmTXyV4/a-AL.jpg</fanart>
-    </movie>
-</movies>
+    <movies>
+        <movie>
+            <title>A Working Man</title>
+            <year>2025</year>
+            <genre>Action, Crime, Thriller</genre>
+            <link>https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/A.Working.Man.2025.720p.10Bit.WEB.DL.Hindi.5.1.English.HEVC.x265.HDHub4u.Ms.mkv</link>
+            <thumbnail>https://i.ibb.co/TMMtjkLS/a-AL-1.jpg</thumbnail>
+            <poster>https://i.ibb.co/TMMtjkLS/a-AL-1.jpg</poster>
+            <fanart>https://i.ibb.co/TMMtjkLS/a-AL-1.jpg</fanart>
+            <plot>A working man struggles to make ends meet in a corrupt city, eventually turning to a life of crime to protect his family.</plot>
+            </movie>
+        <movie>
+            <title>Ash</title>
+            <year>2025</year>
+            <genre>Science Fiction, Horror, Thriller</genre>
+            <link>https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Ash.2025.720p.10Bit.HEVC.WEB.DL.Hindi.5.1.English.5.1.ESub.x264.HDHub4u.Ms.mkv</link>
+            <thumbnail>https://i.ibb.co/8gmTXyV4/a-AL.jpg</thumbnail>
+            <poster>https://i.ibb.co/8gmTXyV4/a-AL.jpg</poster>
+            <fanart>https://i.ibb.co/8gmTXyV4/a-AL.jpg</fanart>
+            <plot>In a dystopian future, a lone survivor named Ash fights against mutated creatures in a desolate wasteland.</plot>
+            </movie>
+    </movies>
+</playlist>
