@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<name>My Playlist</name>
+<thumb>https://i.ibb.co/JjRSLs9n/9368120.jpg</thumb>
+<fanart>https://i.ibb.co/Z6Lwtjyb/1000050626-optimized.jpg</fanart>
+
 <movies>
     <movie>
         <title>A Working Man</title>
