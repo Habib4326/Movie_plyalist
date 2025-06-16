@@ -13,13 +13,21 @@ There are several versions of playlists that differ in the way they are grouped.
 This playlist includes all known channels available in this repository.
 
 
-English Movies Link |
+## English Movies Link ##
 ```
-https://raw.githubusercontent.com/Habib4326/Movie_plyalist/refs/heads/main/main_movies_list_1.m3u
+https://raw.githubusercontent.com/Habib4326/Movie_plyalist/refs/heads/main/English-Movies.m3u
 ```
-Hindi Movies Link |
+## Hindi Movies Link ##
 ```
-https://raw.githubusercontent.com/Habib4326/Movie_plyalist/refs/heads/main/main_movies_list_2.m3u
+https://raw.githubusercontent.com/Habib4326/Movie_plyalist/refs/heads/main/Hindi-Movies.m3u
+```
+## Hindi Dubbed Movies Link ##
+```
+https://raw.githubusercontent.com/Habib4326/Movie_plyalist/refs/heads/main/Hindi-Dubbed.m3u
+```
+## Animated Movies Link  ##
+```
+https://raw.githubusercontent.com/Habib4326/Movie_plyalist/refs/heads/main/Animated-Movies.m3u
 ```
 
 
