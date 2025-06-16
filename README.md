@@ -14,11 +14,9 @@ This playlist includes all known channels available in this repository.
 
 ```
 https://raw.githubusercontent.com/Habib4326/Movie_plyalist/refs/heads/main/main_movies_list_1.m3u
-
 ```
 ```
 https://raw.githubusercontent.com/Habib4326/Movie_plyalist/refs/heads/main/main_movies_list_2.m3u
-
 ```
 
 
