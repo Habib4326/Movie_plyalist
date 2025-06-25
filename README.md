@@ -50,7 +50,7 @@ https://raw.githubusercontent.com/Habib4326/Movie_plyalist/refs/heads/main/Dhaka
 ### Hindi Dubbed Movies Link ###
 
 ```
-
+https://raw.githubusercontent.com/Habib4326/Movie_plyalist/refs/heads/main/Dhakaflix%20Movies/Dhakaflix-Dubbed-Movies.m3u
 ```
 
 
