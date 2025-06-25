@@ -1,6 +1,6 @@
 # Movies Videos !
 
-<img src="https://github.com/Habib4326/Movie_plyalist/blob/main/Movies.jpg" width="300" align="right">
+<img src="https://github.com/Habib4326/Movie_plyalist/blob/main/Movies.jpg" width="500" align="right">
 
 # FTP playlist 
 This playlist Is Dhakaflix 
