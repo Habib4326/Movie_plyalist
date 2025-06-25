@@ -35,11 +35,24 @@ This playlist Is Dhakaflix
 
 Dhakaflix Movies playlist ⏯️ 
 
-### English Movies Link ##
+### English Movies Link ###
 
 ```
 https://raw.githubusercontent.com/Habib4326/Movie_plyalist/refs/heads/main/Dhakaflix Movies/Dhakaflix-English-Movies.m3u
 ```
+
+### Hindi Movies Link ###
+
+```
+https://raw.githubusercontent.com/Habib4326/Movie_plyalist/refs/heads/main/Dhakaflix%20Movies/Dhakaflix-Hindi-Movies.m3u
+```
+
+### Hindi Dubbed Movies Link ###
+
+```
+
+```
+
 
 # FTP playlist
 
