@@ -3,8 +3,10 @@
 <img src="https://github.com/Habib4326/Movie_plyalist/blob/main/Movies.jpg" width="300" align="right">
 
 ## Playlists
+@ Dhakaflix Movies playlist ⏯️ 
+```
 
-There are several versions of playlists that differ in the way they are grouped. As of January 30th, 2024, we have stopped distributing NSFW channels. For more information, please look at [this issue](https://github.com/iptv-org/iptv/issues/15723).
+```
 
 ### Main playlist
 
