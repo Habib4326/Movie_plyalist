@@ -1,9 +1,38 @@
-# Movies Videos !
+<img src="https://github.com/Habib4326/Movie_plyalist/blob/main/Movies.jpg" width="900" align="right">
 
-<img src="https://github.com/Habib4326/Movie_plyalist/blob/main/Movies.jpg" width="500" align="right">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Movies Videos 📸 
+
+
 
 # FTP playlist 
+
 This playlist Is Dhakaflix 
+
 Dhakaflix Movies playlist ⏯️ 
 
 ### English Movies Link ##
