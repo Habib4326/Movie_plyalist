@@ -1,8 +1,6 @@
-## How to use?
+# Movies Videos !
 
-Simply insert one of the links below into [any video player](https://github.com/iptv-org/awesome-iptv#apps) that supports live streaming and press _Open_.
-
-![VLC Network Panel](https://github.com/iptv-org/iptv/raw/master/.readme/preview.png)
+<img src="https://github.com/Habib4326/Movie_plyalist/blob/main/Movies.jpg" width="300" align="right">
 
 ## Playlists
 
@@ -33,8 +31,4 @@ https://raw.githubusercontent.com/Habib4326/Movie_plyalist/refs/heads/main/Anima
 
 ### Grouped by category
 
-Playlists in which channels are grouped by category. A list of all supported categories with descriptions can be found [here](.readme/supported-categories.md).
-
-<details>
-<summary>Expand</summary>
-<br>
+# Created a English Hindi & South Indian Movies 🎥 🎥 🎥 
