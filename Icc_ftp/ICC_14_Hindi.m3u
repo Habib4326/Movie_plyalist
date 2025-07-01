@@ -1,5 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ABCD 2" tvg-logo="https://image.tmdb.org/t/p/w500/7S0heTpQydVBSYl6yBxmqVyentQ.jpg" group-title="Hindi", ABCD 2 (2015)
+#EXTINF:-1 tvg-name="Maa" tvg-logo="https://image.tmdb.org/t/p/w500/7S0heTpQydVBSYl6yBxmqVyentQ.jpg" group-title="Hindi", Maa (2015)
+http://10.16.100.213/iccftps13/iccftps13sasd6/Movies/Hindi/Maa%20(2025)%201080p%20DVDRip.mp4
+
+#EXTINF:-1 tvg-name="ABCD 2" tvg-logo="http://10.16.100.244/files/maa.jpg" group-title="Hindi", ABCD 2 (2015)
 http://10.16.100.213/iccftps13/iccftps13sasd1/Movies/Hindi/ABCD%202%20(Any%20Body%20Can%20Dance%202)%20(2015)%201080p%20WEBRip.mp4
 
 #EXTINF:-1 tvg-name="Article 370" tvg-logo="https://image.tmdb.org/t/p/w500/9VTemjHMpyxzfC3JsG2aFy8Bf9Y.jpg" group-title="Hindi", Article 370 (2024)
