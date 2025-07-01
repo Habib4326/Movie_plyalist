@@ -30,21 +30,26 @@
 
 
 
-# Curcle FTP 
+# ICC FTP 
 
-### TV SHOW ###
+# FTP Playlist 
 
-This playlist Is Circle FTP
+This playlist Is ICC FTP
 
-
+### English Movies Link .....
 ```
-https://raw.githubusercontent.com/Habib4326/Movie_plyalist/refs/heads/main/Circleftp/tv%20show/tv%20show.m3u
+https://raw.githubusercontent.com/Habib4326/Movie_plyalist/refs/heads/main/Icc_ftp/ICC_14_English.m3u
 ```
 
+### Hindi Movies Link .....
+```
+https://raw.githubusercontent.com/Habib4326/Movie_plyalist/refs/heads/main/Icc_ftp/ICC_14_Hindi.m3u
+```
 
-
-
-
+### Hindi Dubbed Movies Link.....
+```
+https://raw.githubusercontent.com/Habib4326/Movie_plyalist/refs/heads/main/Icc_ftp/ICC-14-Hindi_Dubbed.m3u
+```
 
 # FTP playlist 
 
