@@ -1,0 +1,14 @@
+<playlist>
+    <video>
+        <title>My First YouTube Video</title>
+        <youtube_id>dcpFWi0e5iK7w_OC</youtube_id>
+        <thumbnail>https://img.youtube.com/vi/UVgEik5fA3c/hqdefault.jpg</thumbnail>
+        <category>Entertainment</category>
+    </video>
+    <video>
+        <title>Learn Python</title>
+        <youtube_id>kws7iUzYlMQBAdpP</youtube_id>
+        <thumbnail>https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg</thumbnail>
+        <category>Education</category>
+    </video>
+</playlist>
