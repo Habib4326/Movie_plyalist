@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="video1" tvg-name="Video 1" tvg-logo="https://example.com/thumb1.jpg" group-title="Movies",Video 1
+https://youtu.be/UvgEik5fA3c?si=dcpFWi0e5iK7w_OC
+#EXTINF:-1 tvg-id="video2" tvg-name="Video 2" tvg-logo="https://example.com/thumb2.jpg" group-title="Movies",Video 2
+https://youtu.be/EEI2VBZDs7E?si=kws7iUzYlMQBAdpP
+#EXTINF:-1 tvg-id="video3" tvg-name="Video 3" tvg-logo="https://example.com/thumb3.jpg" group-title="TV Shows",Video 3
+https://youtu.be/At4X49e-Zss?si=jpGBV0pyoIG4GXJm
